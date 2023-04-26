@@ -14,14 +14,9 @@ for i in list:
     df=pd.concat([df, df1])
 
 
-
-
-
 df=df.groupby(['Table','Col/Measure'])['Data Element Count'].count()
 df=pd.DataFrame(df)
 df=df.sort_values('Data Element Count', ascending=False)
 
-
-#.sort_values(by='Data Element Count', ascending=False)
 df.to_csv('./RESULT.csv',encoding='utf-16', sep='\t')
 
