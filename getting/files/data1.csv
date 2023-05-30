@@ -1,51 +1,45 @@
 ﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
-Clients,Клієнти,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Rows,1
-Clients,Клієнти,BIC продажі та залишки.pbix,Продажі мережам,ef0e9d37134424228f84,Values,1
-Clients,Клієнти,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Rows,1
-Clients,Клієнти,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Rows,1
-Credits,Кредиторка загальна,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Кредиторка перед БІКом',Columns,1
-Credits,Кредиторка загальна,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Кредиторка перед БІКом',Values,1
-Debts,Дебіторка загальна,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Columns,1
-Debts,Дебіторка загальна,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Rows,1
-Debts,Дебіторка загальна,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Values,1
-DimDates,DateHierarchy.Місяць,BIC продажі та залишки.pbix,Продажі дистриб'юторам,b4959420fda8ae966ca6,Values,1
-DimDates,DateHierarchy.Місяць,BIC продажі та залишки.pbix,Продажі мережам,4cf36773daf6e4f8a647,Values,1
-DimDates,DateHierarchy.Місяць,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,7e16bb746d73d76505cc,Values,1
-DimDates,DateHierarchy.Рік,BIC продажі та залишки.pbix,Продажі дистриб'юторам,a4dcd80290da2ad052d7,Values,1
-DimDates,DateHierarchy.Рік,BIC продажі та залишки.pbix,Продажі мережам,013636aedaba0e8a758c,Values,1
-DimDates,DateHierarchy.Рік,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,ed192e47ee388c2b50a0,Values,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Columns,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Filter087977b7bc0d64aa9c24,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Rows,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Values,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Columns,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Filter0201c4e40f34f7a7acda,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Rows,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Values,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Columns,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Filter5de62be94dfd1d0508d7,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Rows,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Кредиторка перед БІКом',Columns,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Кредиторка перед БІКом',Filter4db526b9ec2b0d36b318,1
-DimDates,DateNormal,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Filter,1
-History,Контракт,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,'Дебіторка дистриб''юторів',Filter99c24ddbaad810b5f7a8,1
-Products,Товари,BIC продажі та залишки.pbix,Залишки на сьогодні,1f58d05a3a43189f21b0,Values,1
-Products,Товари,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Rows,1
-SalesDet,Сума продаж (з ПДВ,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Rows,1
-SalesDet,Сума продаж (з ПДВ,BIC продажі та залишки.pbix,Продажі дистриб'юторам,'Продажі дистриб''юторам поденно',Values,1
-SalesDet,Сума продаж (з ПДВ,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Rows,1
-SalesDet,Сума продаж (з ПДВ,BIC продажі та залишки.pbix,Продажі мережам,'Продажі мережам поденно',Values,1
-Stocks,Залишки в днях (на поточну дату,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Rows,1
-Stocks,Залишки в днях (на поточну дату,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Values,1
-Stocks,К-ть залишків,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Rows,1
-Stocks,К-ть залишків,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Values,1
-Stocks,Сума залишків (грн з ПДВ,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Rows,1
-Stocks,Сума залишків (грн з ПДВ,BIC продажі та залишки.pbix,Залишки на сьогодні,'Залишки на сьогодні',Values,1
-Teritories,Підрозділи,BIC продажі та залишки.pbix,Продажі мережам,24455e0118112d6db536,Filtered3a8499d285710aa04c,1
-Teritories,Підрозділи,BIC продажі та залишки.pbix,Продажі мережам,24455e0118112d6db536,Values,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Продажі дистриб'юторам,1938dd23d46fca4c99a5,Filter,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Продажі дистриб'юторам,1938dd23d46fca4c99a5,Values,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Продажі мережам,8d1127737d0a0c5246bd,Filter,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Продажі мережам,8d1127737d0a0c5246bd,Values,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Продажі мережам,ef0e9d37134424228f84,Filter,1
-Warehouses,Склади,BIC продажі та залишки.pbix,Залишки на сьогодні,1f58d05a3a43189f21b0,Filter,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,'ABC-продажі',Series,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,'ABC-продажі',Y,1
+_ABC_Classes,_ABC_SalesAmount,ABC.pbix,Сторінка 1,b4b5c0dd89116c6c38a1,Values,1
+_ABC_Classes,_ABC_Stock_Amount,ABC.pbix,Сторінка 1,b4b5c0dd89116c6c38a1,Values,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Values,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Rows,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Values,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Values,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Y,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,'ABC-залишки',Series,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,'ABC-залишки',Y,1
+_ABC_Classes,_ABC_StockSum,ABC.pbix,Сторінка 1,b4b5c0dd89116c6c38a1,Values,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Columns,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Rows,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Values,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Category,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Series,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Y,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,'ABC-залишки',Series,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,'ABC-продажі',Series,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,b4b5c0dd89116c6c38a1,Values,1
+_ABC_Classes,ABC,ABC.pbix,Сторінка 1,c5f8e55f5e603181f17d,Values,1
+Brands,Name,ABC.pbix,Сторінка 1,2c6d862fe32d26becf90,Values,1
+DimDates,DateNormal,ABC.pbix,Сторінка 1,58ea2393cd314f9a04ee,Rows,1
+DimDates,DateNormal,ABC.pbix,Сторінка 1,67d8527e72270cd53e48,Values,1
+DimDates,DateNormal,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Category,1
+DimDates,DateNormal,ABC.pbix,Сторінка 1,9c2ca8609d2ba888574a,Y,1
+DimDates,DateNormal,ABC.pbix,Сторінка 1,b4b5c0dd89116c6c38a1,Values,1
+MainSupplier,MainSupplierName,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+Organizations,Name,ABC.pbix,Сторінка 1,3cc499a95a5e1a856b35,Values,1
+ProductsExtended,FullName,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+ProductsExtended,MainSupplierName,ABC.pbix,Сторінка 1,11a8268da6ea66fc1928,Values,1
+ProductsExtended,MainSupplierName,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Columns,1
+ProductsExtended,MainSupplierName,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Rows,1
+ProductsExtended,MainSupplierName,ABC.pbix,Сторінка 1,9bcc165a61edbe2d3840,Values,1
+Territories,Name,ABC.pbix,Сторінка 1,46bfbd04c7e24e075405,Values,1
+Warehouses,Name,ABC.pbix,Сторінка 1,f2eef627c960eb89727e,Values,1
