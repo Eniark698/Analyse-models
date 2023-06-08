@@ -1,0 +1,9 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter301d9ffeeb7a0aa8b465,Clients,ClientGroup1,Categorical
+Filter83f8af21dca0dc354ce7,Clients,ClientGroup1,Advanced
+Filter4d1b8d92b0320033e699,Clients,Клієнти,Advanced
+Filter7796239c99e63c9558e2,Clients,Клієнти,Advanced
+Filtere15be5b7ae4b0bec671d,Clients,Клієнти,Advanced
+Filter01426582448040b904b0,Comands,Команди,Categorical
+Filter96abc162b2d15ddb15b4,DimDates,YearsForSelection,Categorical
+Filter23fa24eebc9dd2a4a86a,DimDates,Рік,Advanced

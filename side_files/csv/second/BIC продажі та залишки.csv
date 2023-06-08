@@ -1,0 +1,21 @@
+﻿Table,Col/Measure,ReportName,Page Name,name,Page Filter Count
+,,BIC продажі та залишки.pbix,Продажі дистриб'юторам,Filterff87a9173308fe722158,1
+,,BIC продажі та залишки.pbix,Продажі мережам,Filterff87a9173308fe722158,1
+,,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filterff87a9173308fe722158,1
+,,BIC продажі та залишки.pbix,Залишки на сьогодні,Filterff87a9173308fe722158,1
+BrandsBI,назва бренда,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filtercd06e34bcc4964588715,1
+Clients,ClientGroup1,BIC продажі та залишки.pbix,Продажі дистриб'юторам,Filterf16621683ed62633c5a2,1
+Clients,ClientGroup1,BIC продажі та залишки.pbix,Продажі мережам,Filterf16621683ed62633c5a2,1
+Clients,ClientGroup1,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filterf16621683ed62633c5a2,1
+Clients,Клієнти,BIC продажі та залишки.pbix,Продажі мережам,Filter19c90dadccbc98b73ecc,1
+DeliveryAddresses,Канал збуту,BIC продажі та залишки.pbix,Продажі дистриб'юторам,Filtere63516a480a8f57466fa,1
+DeliveryAddresses,Канал збуту,BIC продажі та залишки.pbix,Продажі мережам,Filtere63516a480a8f57466fa,1
+DeliveryAddresses,Канал збуту,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filtere63516a480a8f57466fa,1
+DimDates,DateNormal,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filterd6c81089719fe89cd675,1
+DimDates,YearsForSelection,BIC продажі та залишки.pbix,Продажі дистриб'юторам,Filter0f17e47126de36e84b80,1
+DimDates,YearsForSelection,BIC продажі та залишки.pbix,Продажі мережам,Filter0f17e47126de36e84b80,1
+DimDates,YearsForSelection,BIC продажі та залишки.pbix,Кредит-дебит дистриб'юторів,Filter0f17e47126de36e84b80,1
+DimDates,YearsForSelection,BIC продажі та залишки.pbix,Залишки на сьогодні,Filter0f17e47126de36e84b80,1
+History,Контракт,BIC продажі та залишки.pbix,Продажі мережам,Filter8cb18c8d4bacd8583a74,1
+Projects,Контракт,BIC продажі та залишки.pbix,Продажі дистриб'юторам,Filtered1b18ed5f0eb855c47c,1
+Projects,Контракт,BIC продажі та залишки.pbix,Залишки на сьогодні,Filterc857ee2af2cb5499fbbb,1

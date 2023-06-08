@@ -1,0 +1,3 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filteree491029a77c2c97b75d,DeliveryAddresses,Вид ТТ,Categorical
+Filter5c41596e5894c3852263,DeliveryAddresses,Канал збуту,Categorical

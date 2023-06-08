@@ -1,0 +1,20 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+Clients,Клієнти,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1
+Debts,DateDocMonth,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Columns,1
+Debts,DateDocMonth,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1
+Debts,DateDocMonth,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Values,1
+Debts,DateDocYear,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Columns,1
+Debts,DateDocYear,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1
+Debts,DateDocYear,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Values,1
+Debts,Дебіторка,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,b3b22d948262e0140372,Category,1
+Debts,Дебіторка,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,b3b22d948262e0140372,Y,1
+Debts,Дебіторка,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,cacd9fdb529495cb6e22,Values,1
+Debts,Дебіторка,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1
+Debts,Дебіторка,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Values,1
+DimDates,DateNormal,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,6f1889cc06c99b5b0095,Filter,1
+DimDates,DateNormal,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,6f1889cc06c99b5b0095,Values,1
+Projects,Бренди,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,b3b22d948262e0140372,Category,1
+Projects,Бренди,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,c00406c9901d03207c94,Values,1
+Projects,Бренди,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1
+Teritories,Підрозділи,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,b3b22d948262e0140372,Filter,1
+Teritories,Підрозділи,Акційна ДЗ Ф2 – регіон.pbix,Сторінка 1,ff4b00c807ac9dabb3c9,Rows,1

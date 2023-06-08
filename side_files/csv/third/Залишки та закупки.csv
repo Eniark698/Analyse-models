@@ -1,0 +1,6 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filterd961eb076015971da800,DimDates,DateNormal,Advanced
+Filterd43ad4b99500292d66cd,DimDates,YearsForSelection,Categorical
+Filter2,Projects,Бренди,Categorical
+Filter7,Teritories,Підрозділи,Categorical
+Filter,Warehouses,Склади,Categorical
