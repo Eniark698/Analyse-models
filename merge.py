@@ -70,6 +70,6 @@ def merge():
     NotInJOIN.to_excel(current_working_directory+'/output/NotInJOIN.xlsx',index=False)
 
 
-    print('done')
+    
 
 
