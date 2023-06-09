@@ -31,14 +31,16 @@ def merge():
     Measure_table=Measure_table[['Table', 'Name']]
     Measure_table = Measure_table.drop(index=0)
 
-    
 
-    result=pd.concat([temp_pd,Measure_table])
-    result =pd.DataFrame(result)
-    result=result.drop_duplicates()
-    result=result.sort_values(['Table','Name'], ascending=True)
-    result=result.rename(columns={'Name':'Col/Measure'})
 
+    result_model=pd.concat([temp_pd,Measure_table],ignore_index=True)
+    result_model =pd.DataFrame(result_model)
+    result_model=result_model.drop_duplicates()
+    result_model=result_model.sort_values(['Table','Name'], ascending=True)
+    result_model=result_model.rename(columns={'Name':'Col/Measure'})
+
+    result_model['Table'].str.strip()
+    result_model['Col/Measure'].str.strip()
 
     del Columns_table,Measure_table
  
@@ -47,18 +49,19 @@ def merge():
 
 
     Combined_csv=pd.read_csv(current_working_directory+'/side_files/RESULT_csv.csv', encoding='utf-16', sep='\t')
-    result_model=Combined_csv[['Table', 'Col/Measure']]
-   
+    result_reports=Combined_csv[['Table', 'Col/Measure']]
+
     del Combined_csv
    
+    result_reports['Table'].str.strip()
+    result_reports['Col/Measure'].str.strip()
 
 
 
+    #result_model['IsRowNumber']==result1['IsRowNumber']
 
-    #result['IsRowNumber']==result1['IsRowNumber']
-
-    InJOIN=result.merge(result_model, on=['Table', 'Col/Measure']).sort_values(by=['Table', 'Col/Measure']).drop_duplicates()
-    NotInJOIN=result[~result[['Table', 'Col/Measure']].isin(result_model[['Table', 'Col/Measure']])].sort_values(by=['Table', 'Col/Measure']).drop_duplicates()
+    InJOIN=result_model.merge(result_reports, on=['Table', 'Col/Measure']).sort_values(by=['Table', 'Col/Measure']).drop_duplicates()
+    NotInJOIN=result_model[~result_model[['Table', 'Col/Measure']].isin(result_reports[['Table', 'Col/Measure']])].sort_values(by=['Table', 'Col/Measure']).drop_duplicates()
     InJOIN.rename(columns={"IsRowNumber": "Name"})
     NotInJOIN.rename(columns={"IsRowNumber": "Name"})
     InJOIN.to_excel(current_working_directory+'/output/InJOIN.xlsx', index=False)
