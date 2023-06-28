@@ -1,0 +1,3 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter96abc162b2d15ddb15b4,DimDates,YearsForSelection,Categorical
+Filter80231190bbb35ebd4963,DimDates,Рік,Categorical

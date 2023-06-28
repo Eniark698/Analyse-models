@@ -1,0 +1,38 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Category,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Y,1
+_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
+_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
+_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
+_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
+_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Y,2
+_ABC_Classes,_ABC_StocksRotation,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
+_ABC_Classes,_ABC_StocksRotation,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
+_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,50daec04b5046a21c38b,Values,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
+_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Category,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,4d37fb7779e36268119e,Filterce50c904e8b009b242dd,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,4d37fb7779e36268119e,Values,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Columns,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
+DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Y,1
+Organizations,Організації,ABC-аналіз.pbix,Сторінка 1,86c2d3093b0ca30ad6ce,Values,1
+ProductGroup,Група товару,ABC-аналіз.pbix,Сторінка 1,13bb37c0cadcb01e4b90,Values,1
+Products,Category1,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
+Products,Category2,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
+Products,Category3,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
+Products,Артикул,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
+Products,Товари,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
+Projects,Бренди,ABC-аналіз.pbix,Сторінка 1,91b09b141207095c85a1,Values,1
+Projects,Контракт,ABC-аналіз.pbix,Сторінка 1,e18cf26b8e4a26c45471,Values,1
+Projects,Контракт,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
+Teritories,Підрозділи,ABC-аналіз.pbix,Сторінка 1,c57dcca80902e39690b6,Values,1
+Warehouses,Склади,ABC-аналіз.pbix,Сторінка 1,2992d674d48a62ed10d0,Values,1
+Warehouses,Типи Складів (для закупки+залишки,ABC-аналіз.pbix,Сторінка 1,40a02f077336d8d0c17e,Values,1

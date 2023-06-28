@@ -1,0 +1,7 @@
+﻿Table,Col/Measure,ReportName,Page Name,name,Page Filter Count
+BUs,BU_code,August Storck Kg.pbix,"Повтор розділу ""денний фуд""",Filter1,1
+Operational_Planning,виключаю Фер з берти по ТА,August Storck Kg.pbix,денний фуд,Filter,1
+Operational_Planning,виключаю Фер з берти по ТА,August Storck Kg.pbix,"Повтор розділу ""денний фуд""",Filter,1
+Operational_Planning,виключаю Фер з берти по ТА,August Storck Kg.pbix,контракт,Filter,1
+Operational_Planning,виключаю Фер з берти по ТА,August Storck Kg.pbix,регіон,Filter,1
+Operational_Planning,виключаю Фер з берти по ТА,August Storck Kg.pbix,Продажі історія,Filter,1

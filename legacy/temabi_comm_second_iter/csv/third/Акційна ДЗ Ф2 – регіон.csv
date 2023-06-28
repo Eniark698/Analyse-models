@@ -1,0 +1,8 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter5bc350ca24dea758ddc5,Clients,Клієнти,Advanced
+Filter5817d22bee0894492449,Debts,Action,Categorical
+Filtera3c74050e2379940953a,Debts,Ф1/Ф2,Categorical
+Filter96abc162b2d15ddb15b4,DimDates,YearsForSelection,Categorical
+Filter19e3dbd60ce93992280a,Projects,Бренди,Categorical
+Filter45a972899d8445403ab6,Teritories,Підрозділи,Categorical
+Filter6884216004ca131e0714,Warehouses,Склади,Categorical

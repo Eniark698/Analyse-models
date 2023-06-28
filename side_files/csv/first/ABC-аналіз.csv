@@ -1,38 +1,107 @@
 ﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
-_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
-_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
-_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Category,1
-_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Y,1
-_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
-_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
-_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
-_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
-_ABC_Classes,_ABC_StocksAmount,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Y,2
-_ABC_Classes,_ABC_StocksRotation,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
-_ABC_Classes,_ABC_StocksRotation,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,2
-_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,50daec04b5046a21c38b,Values,1
-_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,2
-_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
-_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
-_ABC_Classes,ABC,ABC-аналіз.pbix,Сторінка 1,'АВС-продажі',Category,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,4d37fb7779e36268119e,Filterce50c904e8b009b242dd,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,4d37fb7779e36268119e,Values,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Columns,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Values,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Category,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Series,1
-DimDates,DateNormal,ABC-аналіз.pbix,Сторінка 1,'АВС-залишки',Y,1
-Organizations,Організації,ABC-аналіз.pbix,Сторінка 1,86c2d3093b0ca30ad6ce,Values,1
-ProductGroup,Група товару,ABC-аналіз.pbix,Сторінка 1,13bb37c0cadcb01e4b90,Values,1
-Products,Category1,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
-Products,Category2,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
-Products,Category3,ABC-аналіз.pbix,Сторінка 1,e643165650c155cb0c7d,Values,1
-Products,Артикул,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
-Products,Товари,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
-Projects,Бренди,ABC-аналіз.pbix,Сторінка 1,91b09b141207095c85a1,Values,1
-Projects,Контракт,ABC-аналіз.pbix,Сторінка 1,e18cf26b8e4a26c45471,Values,1
-Projects,Контракт,ABC-аналіз.pbix,Сторінка 1,'АВС аналіз',Rows,1
-Teritories,Підрозділи,ABC-аналіз.pbix,Сторінка 1,c57dcca80902e39690b6,Values,1
-Warehouses,Склади,ABC-аналіз.pbix,Сторінка 1,2992d674d48a62ed10d0,Values,1
-Warehouses,Типи Складів (для закупки+залишки,ABC-аналіз.pbix,Сторінка 1,40a02f077336d8d0c17e,Values,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_Percent_Stocks,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'ABC-продажі',Category,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'ABC-продажі',Y,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-продажі',Category,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-продажі',Y,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_SalesAmount,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_Stock_Rotation,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'',Y,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'ABC-залишки',Y,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Y,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-залишки',Y,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_StockSum,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Columns,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+_ABC_Classes,_ABC_Кількість_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Values,1
+_ABC_Classes,_ABC_Кількість_унікальних_SKU,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_Кількість_унікальних_SKU,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Values,1
+_ABC_Classes,_ABC_Кількість_унікальних_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,_ABC_Кількість_унікальних_SKU,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Values,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'',Series,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'',Y,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'ABC-залишки',Category,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'ABC-залишки',Y,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'ABC-продажі',Category,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,cf5a670530113fe00c8a,Values,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Columns,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Series,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Y,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-залишки',Category,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-залишки',Y,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'ABC-продажі',Category,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",fb43185da5d6462915ea,Values,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Columns,1
+_ABC_Classes,ABC,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+Brands,Name,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Filter6efa513537f49d1050bf,1
+Brands,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Filter6efa513537f49d1050bf,1
+Brands,ParentName,ABC-аналіз.pbix,ABC-аналіз,c860820d0f2fff3c43f1,Values,1
+Brands,ParentName,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",a7c2b929cf7691404145,Values,1
+Business_Units,Name,ABC-аналіз.pbix,ABC-аналіз,e6b19657b124f67ebf68,Values,1
+Business_Units,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",c62061aeadce3da0f09e,Values,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,'',Category,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,'',Series,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,'',Y,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,361873ecc49fd1d746c8,Values,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Filter675592435abd3aa1d281,1
+DimDates,DateNormal,ABC-аналіз.pbix,ABC-аналіз,'Аналіз поденно',Rows,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Category,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Series,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'',Y,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",8270be0134a6d0fd2487,Values,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Filter675592435abd3aa1d281,1
+DimDates,DateNormal,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз поденно',Rows,1
+MainSupplier,MainSupplierName,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+MainSupplier,MainSupplierName,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+Organizations,Name,ABC-аналіз.pbix,ABC-аналіз,aa8fd2699d7ff65c984f,Filter05953d0de711a01b05c1,1
+Organizations,Name,ABC-аналіз.pbix,ABC-аналіз,aa8fd2699d7ff65c984f,Values,1
+Organizations,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",859d2db087a094efbe74,Filter05953d0de711a01b05c1,1
+Organizations,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",859d2db087a094efbe74,Values,1
+ProductsExtended,FullName,ABC-аналіз.pbix,ABC-аналіз,'Аналіз ABC',Rows,1
+ProductsExtended,FullName,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",'Аналіз ABC',Rows,1
+ProductsExtended,MainSupplierName,ABC-аналіз.pbix,ABC-аналіз,60e5c6f89acc03689a8c,Values,1
+ProductsExtended,MainSupplierName,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",006e60d69d4348a10074,Values,1
+ProductsExtended,Nomenclature Group,ABC-аналіз.pbix,ABC-аналіз,d88fe15bd9c2f364fc5b,Values,1
+ProductsExtended,Nomenclature Group,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",6f9ebaf3d36cadaf7e4e,Values,1
+ProductsExtended,ProductBrandName,ABC-аналіз.pbix,ABC-аналіз,a681360a166805e1a2f7,Values,1
+ProductsExtended,ProductBrandName,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",bf07c68f9749a1a022da,Values,1
+Territories,Name,ABC-аналіз.pbix,ABC-аналіз,18271443d5fca0216774,Values,1
+Territories,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",7390ac31d7372904fe6e,Values,1
+Warehouses,Characteristic,ABC-аналіз.pbix,ABC-аналіз,c1ce8b662537e97a275f,Values,1
+Warehouses,Characteristic,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",237c4e1ba05519686fa6,Values,1
+Warehouses,Name,ABC-аналіз.pbix,ABC-аналіз,8bf8a1201fdd2ad68c7b,Values,1
+Warehouses,Name,ABC-аналіз.pbix,"""ABC-аналіз"" із деталізацією SKU",47f91530fc9315984d5c,Values,1

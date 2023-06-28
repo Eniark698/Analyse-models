@@ -1,0 +1,7 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter8b944fc20311a4fe0cb7,DimDates,MarsPeriod,Categorical
+Filterb966050864e3049ae15b,DimDates,MarsPeriod,Categorical
+Filter5a73e69f862aeb006784,Operational_Planning,GroupsCode,Categorical
+Filtera6a21f1040c41b52acd0,ProductsExtended,GroupCode,Categorical
+Filter9ff0806c9451dca85e68,ProductsExtended,MainSupplierName,Categorical
+Filter1d328254b1fbe70d64b9,SalesPersonesExtended,Parent1,Categorical

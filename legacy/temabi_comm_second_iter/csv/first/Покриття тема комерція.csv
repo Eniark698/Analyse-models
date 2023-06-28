@@ -1,0 +1,23 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+Clients,Клієнти,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Filter81afdec9377cf8aac882,1
+Clients,Клієнти,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+Clients,Клієнти,Покриття тема комерція.pbix,Покриття,ff22aa270565a280ae41,Filter9ba743b4cc9a058d3261,1
+Clients,Клієнти,Покриття тема комерція.pbix,Покриття,ff22aa270565a280ae41,Values,1
+DeliveryAddresses,Адреси доставки,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Filtercdca03172e00d4f7d0ac,1
+DeliveryAddresses,Адреси доставки,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+DeliveryAddresses,Вид ТТ,Покриття тема комерція.pbix,Покриття,3b3c35b3b8bc2841b538,Values,1
+DeliveryAddresses,Вид ТТ,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+DeliveryAddresses,Канал збуту,Покриття тема комерція.pbix,Покриття,662a3f78347f63fc2ce1,Values,1
+DeliveryAddresses,Канал збуту,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+DimDates,DateNormal,Покриття тема комерція.pbix,Покриття,3277a523e3e29a608588,Values,1
+Projects,Бренди,Покриття тема комерція.pbix,Покриття,6251b13e7887d160568c,Values,1
+Projects,Бренди,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Columns,1
+Projects,Бренди,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Filter57af11ff25c4075cec12,1
+Projects,Бренди,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+Projects,Бренди,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Values,1
+SalesDet,Міра,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+SalesDet,Міра,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Values,1
+Teritories,Підрозділи,Покриття тема комерція.pbix,Покриття,231b421968101be8d3b1,Values,1
+Teritories,Підрозділи,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Filter7878723f0d31068002be,1
+Teritories,Підрозділи,Покриття тема комерція.pbix,Покриття,70ab2381a6114f6210d4,Rows,1
+Teritories,Територія,Покриття тема комерція.pbix,Покриття,231b421968101be8d3b1,Filterf80a11333266f36dacae,1

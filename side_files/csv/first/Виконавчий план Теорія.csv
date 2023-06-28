@@ -1,0 +1,921 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+,,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter,1
+,,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,4dbc38d24cab1e6a02cd,Filter613618947beab10ef089,1
+[Role,Columns],Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Rows,2
+[Role,Columns],Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Values,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+[Role,Columns],Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Contractors,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+Contractors,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,32f1336495eeee9381cd,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,32f1336495eeee9381cd,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),021bcd64b4f89337aa8f,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),021bcd64b4f89337aa8f,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),323affd3286d933c16f9,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),323affd3286d933c16f9,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),66fc16aa178b86d2c360,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),66fc16aa178b86d2c360,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),c45093c31cc985175b3b,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),c45093c31cc985175b3b,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),15905addde5b34415a15,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),15905addde5b34415a15,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),5318055b36371a35d950,Filter,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),5318055b36371a35d950,Values,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Values,2
+Contractors,Name,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+Contractors,Name,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Values,2
+Contractors,Name,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),38e56aab686323cfb701,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),29b998f16ea15e86127b,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),55e45ab49356a7ab39c9,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),13d4f2c2509dbb757e36,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),770cf7af1c7fed765f43,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),5dfd869c057d38bc41f9,Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Contractors,Parent,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Values,1
+Contractors,Parent,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),50b65b8fff2f76a0dbcc,Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),15132efe22622bff9f51,Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),0f59c8682bd0dbd7abe3,Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),163f2405cd3d2a18ba42,Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7ac6daf13c5ee0b618b4,Values,1
+Contractors,Вид напрямку продаж,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),defab5d3459fc285228d,Values,1
+DeliveryAddresses,adCanal,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Values,1
+DeliveryAddresses,adCanal,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Values,1
+DeliveryAddresses,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter1,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Продажі в кг,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,АКБ,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Залишки ВЕН,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Продажі по типах складів,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,TOП SKU по ТА,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),8e8189924fa2fc3e39b5,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ffedb39cf196453bed2b,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),0c72115ca7df1766e5fa,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ab68ab66c360dcf5c421,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),11f4880f75dfa8801796,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),5743921c3746f57f03c3,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),58f44846a3143a5c67e0,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),7a1386822cef59c2c579,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7d09ab5b2281a9356a30,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),db860ed6aef5811f82ef,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),d5f4ced87c1bb86193ea,Values,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),ed22159767a8e89bef7b,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),aa03a52214fec42f4130,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконавчий план Теорія.pbix,Надані знижки (історія),b991eab08edcd54f63ca,Filter97e12f5d88399a106a20,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,Продажі в кг,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,АКБ,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,Залишки ВЕН,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,Продажі по типах складів,7e5fa9d0d8b4110a9041,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,TOП SKU по ТА,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ca37c6de012b33d33906,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),78bd6482d9ddd1d12eee,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),bbc2025c7a815c41ea3b,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),2f5ef4a749cf7c6f64d1,Values,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Rows,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),fc5175553f1ed12ea2a0,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Rows,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),72943addd708525fd41b,Values,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),b4d00874f219494bd2a5,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),5e6e4ba3cc722251f91d,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),6ad6048c70f2ea5e23a6,Values,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Rows,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),b9732013a3c8ae563bf6,Category,1
+DimDates,MarsPeriod,Виконавчий план Теорія.pbix,Надані знижки (історія),067f5a31ed834af57ae7,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,Продажі в кг,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,АКБ,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,Залишки ВЕН,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,Продажі по типах складів,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,TOП SKU по ТА,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),8e8189924fa2fc3e39b5,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ab68ab66c360dcf5c421,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),11f4880f75dfa8801796,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),58f44846a3143a5c67e0,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7d09ab5b2281a9356a30,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),ed22159767a8e89bef7b,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),aa03a52214fec42f4130,Category,1
+DimDates,MarsPeriodYear,Виконавчий план Теорія.pbix,Надані знижки (історія),b991eab08edcd54f63ca,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Rows,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),e0d58fae9bc99ca93783,Values,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),8dbeb390210b8e52c114,Values,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Rows,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Rows,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),34e56ca8803e9dfdd48d,Values,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Rows,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Values,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Category,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Rows,1
+DimDates,MonthName,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Values,1
+DimDates,WorkDays,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),02f22fe9ab68b6ca2d81,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),e0d58fae9bc99ca93783,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),62e51c7350946dd9904e,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),8dbeb390210b8e52c114,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),34e56ca8803e9dfdd48d,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),df3602c46b5dc5c041c5,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),18d3cba2dc1fd74b7a84,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),2f5ef4a749cf7c6f64d1,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),5f1481e9f551dcefdb5c,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),72943addd708525fd41b,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),6ad6048c70f2ea5e23a6,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),f66d8b05980115061e5a,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Columns,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Rows,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Values,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Series,1
+DimDates,YearNumber,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,АКБ,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),9f6a3eb79842368f4523,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),00cab592996cad88d23c,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),74fae6e9eb1615099483,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),8fe254b0110aed8cbaac,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),fe1ce7383edf4f4eb558,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),424d36069fe3dd479a86,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),379135c5f753c237adec,Category,1
+GroupProducts,Name,Виконавчий план Теорія.pbix,Надані знижки (історія),3cc7a9f0d7f373640281,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі в кг,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,АКБ,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,АКБ,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,АКБ,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Залишки ВЕН,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Залишки ВЕН,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Залишки ВЕН,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі по типах складів,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі по типах складів,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Продажі по типах складів,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП SKU по ТА,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП SKU по ТА,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,TOП SKU по ТА,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),6ef42c749c50a2ce4c1b,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),9f6a3eb79842368f4523,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),9f6a3eb79842368f4523,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),00cab592996cad88d23c,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),00cab592996cad88d23c,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),828038fa564d31efdb7f,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),74fae6e9eb1615099483,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),74fae6e9eb1615099483,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),eaab3f05d951d92a499a,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),188cfda6615534386e07,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),8fe254b0110aed8cbaac,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),8fe254b0110aed8cbaac,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f6977805846cadaad942,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),fe1ce7383edf4f4eb558,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),fe1ce7383edf4f4eb558,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),424d36069fe3dd479a86,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),424d36069fe3dd479a86,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b02ecec999b35a0afd94,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),379135c5f753c237adec,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),379135c5f753c237adec,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),b5ffdb783d9c884c0b34,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Надані знижки (історія),3cc7a9f0d7f373640281,Category,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Надані знижки (історія),3cc7a9f0d7f373640281,Values,1
+Operational_Planning,PlanSum,Виконавчий план Теорія.pbix,Надані знижки (історія),d170d1651cd7bbaadaa8,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Операціний план Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Organizations,Name,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Values,1
+Organizations,Name,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cf25dea0ee84b4800494,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),685e046b2caa0d2c31c9,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),12e9595a3b719e95fb90,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),4aaa22c14e361cfa66ac,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),c56822b82ae3f017ba7e,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f98318387c89dfa88c21,Values,1
+ProductsExtended,Delisting,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),3b0c09a55028b187cb54,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,9bb2dde83589d57e0870,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),976c2c15dfa4d52325a8,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),5032a4f06d1c44dc2d4c,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),47c54e842cfb64ce6e6b,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),fa6aed18d382668fb8dd,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),68f7e530916955f47d07,Values,1
+ProductsExtended,Equipment,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b2ab00c7886641d926fd,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,b922f5bc79362471298e,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Продажі в кг,'Focus SKU',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_GUM',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,АКБ,'Focus SKU',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,АКБ,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,АКБ,'Mars_GUM',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,АКБ,'Mars_Pet Care',Category,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),6712bc0cc9d820ab846b,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),0375f1c2bc3e90dc89f4,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),c652c737208008ef0f58,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),aa0ebe46f629246e7a75,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),4e76f552cc468a17ee00,Values,1
+ProductsExtended,Focus,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),cdf8cee358e71397ca1e,Values,1
+ProductsExtended,MainSupplierName,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Filter,1
+ProductsExtended,MainSupplierName,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Filter,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,03edae3f648a3fe66430,Values,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,432385fa4ca87c6cc8c3,Values,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,32f1336495eeee9381cd,Filter,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,32f1336495eeee9381cd,Values,1
+ProductsExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,24973557ee156057081d,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ba85cb28f963909c358f,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),5c19ac48fe0a9f5df9d9,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),806c073ea2383bb8e1e5,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),38fdb37f97cd45169834,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f405240318aeac3858aa,Values,1
+ProductsExtended,New,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),4f42df5d155dd5520e20,Values,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Category,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Series,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Category,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Series,1
+ProductsExtended,Nomenclature Group,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,4dbc38d24cab1e6a02cd,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),138f390400e692d44e06,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ed6b12a9f91893c9f9fb,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),0b7828424da96bc75d32,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),22ed1497ef0782e3421c,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c9e4e061e7709d39297e,Values,1
+ProductsExtended,Present,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),3e4e4f43c2fbff3178c6,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Series,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Size,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),401216d4e7b0a0f6719c,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ccaf00b11c205054e376,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),ef0efc7f6007213634e5,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),1f178071826605216d18,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7fac8237c7f50c18d42c,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),cdc4c57991c7f0700fa4,Values,1
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'',Filter,3
+ProductsExtended,ProductBrandName,Виконавчий план Теорія.pbix,Надані знижки (історія),'',Filter,3
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,99823356b380db47b309,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),2ec30b94fe3cb064ef13,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),3d1e9d28212f2061c6f8,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),3cff44c0ba41008bdc23,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),fcc2e71eeb75e94a9669,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),36d2f6bc5b1c9e0d4628,Values,1
+ProductsExtended,Promotional,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),675c4498429715a5f5e6,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,196b9cf9ae80506c41cc,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ba54ebb9ff37c3898939,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),f8a0f7330f616fb1139c,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),1ec5af684182f65c66fe,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),eabbeaf5ddd95729b4fd,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),9868d2f89557a34a846e,Values,1
+ProductsExtended,Quotated,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b77dc403bc5b933de2ae,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,4d55ed56a3a1ddb80430,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),596b4c55edcc556d0ad2,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da044c1fb00274e7141b,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),71448ed5758c34dea87a,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),430c2e52fdbb982bbad7,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),cc4bbadfe218f63b77d8,Values,1
+ProductsExtended,Seasonal,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),017a46d522c246f4ba23,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,d9dd03110d82ca273680,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),46ac779d33f2b091238c,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),be92c747a289b5247c79,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),56b7da2f75b5eab8abd9,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),9d49567f292d555990e4,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7749235ec4c71de3beb2,Values,1
+ProductsExtended,Tester,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),2f9cd69e5ff117f96d27,Values,1
+ReturnedFunds,Sum,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+ReturnedFunds,Sum,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),1ecb79ffd2e69fe04c08,Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Rows,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da100ba18a88f0dfd3bf,Values,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Rows,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),0cdd5268b4fa9c471261,Values,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),2dd0917e6ece9da2a571,Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,BaseSum,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,Markup Ratio,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Size,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Values,4
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,cdaaf3d9f9ae9e11ca5c,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,TOП SKU по ТА,cdaaf3d9f9ae9e11ca5c,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),02f22fe9ab68b6ca2d81,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),03126a86e91402a3b936,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d5511b979e99f9811034,Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),d81e65840d378e8a8654,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),e0d58fae9bc99ca93783,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),98697262204b016a2533,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),5a15eb7e6697d3373d87,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),18d3cba2dc1fd74b7a84,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),2f5ef4a749cf7c6f64d1,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),3493266fbeccab55a437,Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),5c95b62111d8916907a0,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),6e05519d0fceeeb3e07b,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c3f13875ce371f78929b,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),18ae952aa25551498b5b,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),50c0e22b13636793f5c0,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),c14281e2aa95ca0019b9,Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Надані знижки (історія),1e53a579d792e825de7a,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Series,1
+Sales,Net Sales Value (UAH VAT inc,Виконавчий план Теорія.pbix,Надані знижки (історія),4e8b0d85b94e43b87389,Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',Value,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,524e79d0aad2c244a375,Rows,2
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,524e79d0aad2c244a375,Values,2
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,7a121d0a6070550060eb,Values,2
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,a91e19daddba80fa05a5,Size,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,ada294f78ade24251031,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,cd629293083c4a5d6b2e,Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,f36a2d6a875d048be92b,Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Focus SKU',Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Focus SKU',Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_CHOCO',Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_CHOCO',Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_GUM',Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_GUM',Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_Pet Care',Category,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,АКБ,'Mars_Pet Care',Y,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',Value,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),82146683487c6baf932e,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),6f9de8b150c15f080d32,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),11b754e85b856b3cc1f2,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),38beeb2dd51d44f3b3a2,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c4f109d97c9047b5a53c,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),ad16a9e1551973685e84,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),8fab4c65c3b0d88735e5,Values,1
+Sales,PoS/Contractors,Виконавчий план Теорія.pbix,Надані знижки (історія),8d8ac5dfa17fd2717528,Values,1
+Sales,Sales Base Sum Correct growth,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),8dbeb390210b8e52c114,Values,1
+Sales,Sales Base Sum Correct growth,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),72943addd708525fd41b,Values,1
+Sales,Sales BaseSum growth,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),62e51c7350946dd9904e,Values,1
+Sales,Sales BaseSum growth,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),5f1481e9f551dcefdb5c,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,524e79d0aad2c244a375,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,7a121d0a6070550060eb,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,cd629293083c4a5d6b2e,Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,f36a2d6a875d048be92b,Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Focus SKU',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Focus SKU',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_CHOCO',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_GUM',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_GUM',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі в кг,'Mars_Pet Care',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Values,4
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП SKU по ТА,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),5019a8a42c95e46716a5,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),aaa8074339fd93008b3a,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Rows,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),308083e50453979e6f17,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),a30c8fcb06b06ff2c93e,Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),eecc91dffa9b42c22114,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),e241c2126bbf2b12ab87,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),a36c3a71ad81eb724286,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),118d586500ca976baa9b,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Rows,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),88104deaf9818c02958e,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),bebdc1df6c79e56fd675,Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Групи товарів (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Контрагенти (по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Category,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Series,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),'Мережа збуту(по спаданню суми продаж (тис. грн))',Y,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),751d861bd5db9e0d7cf9,Values,1
+Sales,Volume (kg,Виконавчий план Теорія.pbix,Надані знижки (історія),59bafb5eb4695fc7af4a,Values,1
+Sales,Volume kg growth,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),34e56ca8803e9dfdd48d,Values,1
+Sales,Volume kg growth,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),df3602c46b5dc5c041c5,Values,1
+Sales,Volume kg growth,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),6ad6048c70f2ea5e23a6,Values,1
+Sales,Volume kg growth,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),f66d8b05980115061e5a,Values,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Sales,Націнка,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Sales,Націнка,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+Sales,Націнка,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,1
+Sales,Націнка,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,1
+Sales,Націнка,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,1
+Sales,Приріст продажу,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+Sales,Приріст продажу,Виконавчий план Теорія.pbix,Надані знижки (історія),'Групи товарів (прирости суми продаж(тис.грн))',Y,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Values,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Values,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+Sales,Сума продаж,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Продажі в кг,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,АКБ,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,809c8dd264e0e81d3abe,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,809c8dd264e0e81d3abe,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,809c8dd264e0e81d3abe,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,TOП SKU по ТА,809c8dd264e0e81d3abe,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),dfd8817e07a12dfdd3fa,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),dfd8817e07a12dfdd3fa,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),89b58f2b37df5734b6a0,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),89b58f2b37df5734b6a0,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),3611f4b4b6a28b9ea1ea,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),3611f4b4b6a28b9ea1ea,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),65074d116f83d1bf4dae,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),65074d116f83d1bf4dae,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),b57ff9393876f8d77f69,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),b57ff9393876f8d77f69,Values,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),960b656b5dadf46b5414,Filter,1
+SalesPersonesExtended,Name,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),960b656b5dadf46b5414,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,60a56bf547e7c18994eb,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,60a56bf547e7c18994eb,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,TOП SKU по ТА,60a56bf547e7c18994eb,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,TOП SKU по ТА,60a56bf547e7c18994eb,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),138f390400e692d44e06,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),2ec30b94fe3cb064ef13,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),38e56aab686323cfb701,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),401216d4e7b0a0f6719c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),426aeb8440cf71c66ff0,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),426aeb8440cf71c66ff0,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),46ac779d33f2b091238c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),50b65b8fff2f76a0dbcc,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),596b4c55edcc556d0ad2,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),6712bc0cc9d820ab846b,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),685e046b2caa0d2c31c9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),976c2c15dfa4d52325a8,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ba54ebb9ff37c3898939,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),ba85cb28f963909c358f,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),0375f1c2bc3e90dc89f4,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),12e9595a3b719e95fb90,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),15132efe22622bff9f51,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),29b998f16ea15e86127b,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),3d1e9d28212f2061c6f8,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),5032a4f06d1c44dc2d4c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),5c19ac48fe0a9f5df9d9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),6f26e4d55175945749fe,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),6f26e4d55175945749fe,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),be92c747a289b5247c79,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ccaf00b11c205054e376,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),da044c1fb00274e7141b,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),ed6b12a9f91893c9f9fb,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),f8a0f7330f616fb1139c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),0b7828424da96bc75d32,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),0f59c8682bd0dbd7abe3,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),1ec5af684182f65c66fe,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),3cff44c0ba41008bdc23,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),47c54e842cfb64ce6e6b,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),4aaa22c14e361cfa66ac,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),55e45ab49356a7ab39c9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),56b7da2f75b5eab8abd9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),5c8ce48f5f05208bf52f,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),5c8ce48f5f05208bf52f,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),71448ed5758c34dea87a,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),806c073ea2383bb8e1e5,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),c652c737208008ef0f58,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),ef0efc7f6007213634e5,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),13d4f2c2509dbb757e36,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),163f2405cd3d2a18ba42,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),1f178071826605216d18,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),22ed1497ef0782e3421c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),24dee83f2bbde92dec5e,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),24dee83f2bbde92dec5e,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),38fdb37f97cd45169834,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),430c2e52fdbb982bbad7,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),9d49567f292d555990e4,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),aa0ebe46f629246e7a75,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),c56822b82ae3f017ba7e,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),eabbeaf5ddd95729b4fd,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),fa6aed18d382668fb8dd,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),fcc2e71eeb75e94a9669,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),36d2f6bc5b1c9e0d4628,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),46a3ff62a86554935175,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),46a3ff62a86554935175,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),4e76f552cc468a17ee00,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),68f7e530916955f47d07,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),770cf7af1c7fed765f43,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7749235ec4c71de3beb2,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7ac6daf13c5ee0b618b4,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),7fac8237c7f50c18d42c,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),9868d2f89557a34a846e,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c9e4e061e7709d39297e,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),cc4bbadfe218f63b77d8,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f405240318aeac3858aa,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f98318387c89dfa88c21,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),017a46d522c246f4ba23,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),16f833366b057ba5f5e9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),16f833366b057ba5f5e9,Values,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),2f9cd69e5ff117f96d27,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),3b0c09a55028b187cb54,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),3e4e4f43c2fbff3178c6,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),4f42df5d155dd5520e20,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),5dfd869c057d38bc41f9,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),675c4498429715a5f5e6,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b2ab00c7886641d926fd,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b77dc403bc5b933de2ae,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),cdc4c57991c7f0700fa4,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),cdf8cee358e71397ca1e,Filter,1
+SalesPersonesExtended,Parent1,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),defab5d3459fc285228d,Filter,1
+Sheet1,Image,Виконавчий план Теорія.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sheet1,Image,Виконавчий план Теорія.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Stocks,Date,Виконавчий план Теорія.pbix,Залишки ВЕН,"','",Values,1
+Stocks,Date,Виконавчий план Теорія.pbix,Залишки ВЕН,9474d14cf9d630379688,Values,1
+Stocks,Залишки в цінах продажу,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Stocks,Залишки в цінах продажу,Виконавчий план Теорія.pbix,Залишки ВЕН,ada294f78ade24251031,Values,1
+Stocks,Залишки в цінах продажу,Виконавчий план Теорія.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Stocks,Залишки на кінець періоду,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Stocks,Залишки на кінець періоду,Виконавчий план Теорія.pbix,Залишки ВЕН,6a7b99f71e2a6146e232,Values,1
+Stocks,Залишки на кінець періоду,Виконавчий план Теорія.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Territories,Name,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+Territories,Name,Виконавчий план Теорія.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter,1
+Territories,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name,Виконавчий план Теорія.pbix,Продажі в кг,a91e19daddba80fa05a5,Category,1
+Territories,Name,Виконавчий план Теорія.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Territories,Name,Виконавчий план Теорія.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Territories,Name,Виконавчий план Теорія.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Territories,Name,Виконавчий план Теорія.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі в кг,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,АКБ,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,АКБ,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Залишки ВЕН,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Залишки ВЕН,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі по типах складів,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі по типах складів,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  грн'",Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Продажі по типах складів,"'Продаж,  кг'",Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,TOП SKU по ТА,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,TOП SKU по ТА,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),6ef42c749c50a2ce4c1b,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),6ef42c749c50a2ce4c1b,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),828038fa564d31efdb7f,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),828038fa564d31efdb7f,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),eaab3f05d951d92a499a,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),eaab3f05d951d92a499a,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),188cfda6615534386e07,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),188cfda6615534386e07,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f6977805846cadaad942,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),f6977805846cadaad942,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b02ecec999b35a0afd94,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),b02ecec999b35a0afd94,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),b5ffdb783d9c884c0b34,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),b5ffdb783d9c884c0b34,Values,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Надані знижки (історія),d170d1651cd7bbaadaa8,Category,1
+Territories,Name_Region,Виконавчий план Теорія.pbix,Надані знижки (історія),d170d1651cd7bbaadaa8,Values,1
+Type_Of_Price,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Filter,1
+Type_Of_Price,Name,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Values,1
+Warehouses,Code,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Warehouses,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Warehouses,Name,Виконавчий план Теорія.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,АКБ,3842cabc09d0b1dc90dc,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі по типах складів,012466fa215b19136241,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Columns,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Rows,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Продажі по типах складів,'ГРН',Values,2
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),82146683487c6baf932e,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн),82146683487c6baf932e,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),6f9de8b150c15f080d32,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(грн без пдв),6f9de8b150c15f080d32,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),11b754e85b856b3cc1f2,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (місяць)(кг),11b754e85b856b3cc1f2,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),38beeb2dd51d44f3b3a2,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн),38beeb2dd51d44f3b3a2,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c4f109d97c9047b5a53c,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(грн без пдв),c4f109d97c9047b5a53c,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),ad16a9e1551973685e84,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія (період)(кг),ad16a9e1551973685e84,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),8fab4c65c3b0d88735e5,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),8fab4c65c3b0d88735e5,Values,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Надані знижки (історія),8d8ac5dfa17fd2717528,Category,1
+Warehouses,тип складу (bic,Виконавчий план Теорія.pbix,Надані знижки (історія),8d8ac5dfa17fd2717528,Values,1
+ОпераційнийПлан,WorkDaysPassed,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+ОпераційнийПлан,WorkDaysRemains,Виконавчий план Теорія.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+тис, грн,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),f1d19a55d1d4881046d5,Values,1
+тис, грн,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+тис, грн,Виконавчий план Теорія.pbix,S-OUT історія деталізац(період),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1
+тис, грн,Виконавчий план Теорія.pbix,Надані знижки (історія),64535db1bc8916b9b768,Values,1
+тис, грн,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Category,1
+тис, грн,Виконавчий план Теорія.pbix,Надані знижки (історія),'Клієнти (по спаданню суми продаж(тис.грн))',Y,1

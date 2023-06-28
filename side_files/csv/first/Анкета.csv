@@ -1,0 +1,188 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+DimDates,DateNormal,Анкета.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Анкета.pbix,Продажі в кг,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Анкета.pbix,АКБ,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,MarsPeriod,Анкета.pbix,Виконання планів продажу Mars,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Анкета.pbix,Продажі в кг,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Анкета.pbix,АКБ,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriodYear,Анкета.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Анкета.pbix,Продажі в кг,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Анкета.pbix,АКБ,617daf469a9ed9a8b76f,Category,1
+DimDates,WorkDays,Анкета.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+GroupProducts,Name,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Анкета.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Анкета.pbix,Продажі в кг,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+GroupProducts,Name,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Анкета.pbix,АКБ,03b7997568a0105e89b2,Columns,1
+GroupProducts,Name,Анкета.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+GroupProducts,Name,Анкета.pbix,АКБ,03b7997568a0105e89b2,Values,1
+GroupProducts,Name,Анкета.pbix,АКБ,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Анкета.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Анкета.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Анкета.pbix,АКБ,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Анкета.pbix,АКБ,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Анкета.pbix,АКБ,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+Operational_Planning,PlanSum,Анкета.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Анкета.pbix,Продажі в кг,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Анкета.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Анкета.pbix,АКБ,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Анкета.pbix,АКБ,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Анкета.pbix,АКБ,5a269e62d43010103159,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Операціний план Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+ProductsExtended,Delisting,Анкета.pbix,Виконання планів продажу Mars,cf25dea0ee84b4800494,Values,1
+ProductsExtended,Equipment,Анкета.pbix,Виконання планів продажу Mars,9bb2dde83589d57e0870,Values,1
+ProductsExtended,Focus,Анкета.pbix,Виконання планів продажу Mars,b922f5bc79362471298e,Values,1
+ProductsExtended,Focus,Анкета.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Анкета.pbix,Продажі в кг,'Focus SKU',Category,1
+ProductsExtended,Focus,Анкета.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Анкета.pbix,Продажі в кг,'Mars_GUM',Category,1
+ProductsExtended,Focus,Анкета.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+ProductsExtended,Focus,Анкета.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Анкета.pbix,АКБ,'Focus SKU',Category,1
+ProductsExtended,Focus,Анкета.pbix,АКБ,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Анкета.pbix,АКБ,'Mars_GUM',Category,1
+ProductsExtended,Focus,Анкета.pbix,АКБ,'Mars_Pet Care',Category,1
+ProductsExtended,New,Анкета.pbix,Виконання планів продажу Mars,24973557ee156057081d,Values,1
+ProductsExtended,Present,Анкета.pbix,Виконання планів продажу Mars,4dbc38d24cab1e6a02cd,Values,1
+ProductsExtended,Promotional,Анкета.pbix,Виконання планів продажу Mars,99823356b380db47b309,Values,1
+ProductsExtended,Quotated,Анкета.pbix,Виконання планів продажу Mars,196b9cf9ae80506c41cc,Values,1
+ProductsExtended,Seasonal,Анкета.pbix,Виконання планів продажу Mars,4d55ed56a3a1ddb80430,Values,1
+ProductsExtended,Tester,Анкета.pbix,Виконання планів продажу Mars,d9dd03110d82ca273680,Values,1
+ReturnedFunds,Sum,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+ReturnedFunds,Sum,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Values,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Values,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Sales,PoS/Contractors,Анкета.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,03b7997568a0105e89b2,Values,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,524e79d0aad2c244a375,Rows,2
+Sales,PoS/Contractors,Анкета.pbix,АКБ,524e79d0aad2c244a375,Values,2
+Sales,PoS/Contractors,Анкета.pbix,АКБ,7a121d0a6070550060eb,Values,2
+Sales,PoS/Contractors,Анкета.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,a91e19daddba80fa05a5,Size,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,ada294f78ade24251031,Values,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,cd629293083c4a5d6b2e,Y,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,f36a2d6a875d048be92b,Y,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Focus SKU',Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Focus SKU',Y,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_CHOCO',Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_CHOCO',Y,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_GUM',Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_GUM',Y,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_Pet Care',Category,1
+Sales,PoS/Contractors,Анкета.pbix,АКБ,'Mars_Pet Care',Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,2
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,524e79d0aad2c244a375,Values,2
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,7a121d0a6070550060eb,Values,2
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,cd629293083c4a5d6b2e,Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,f36a2d6a875d048be92b,Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Focus SKU',Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Focus SKU',Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_CHOCO',Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_GUM',Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_GUM',Y,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+Sales,Volume (kg,Анкета.pbix,Продажі в кг,'Mars_Pet Care',Y,1
+SalesPersonesExtended,Name,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Анкета.pbix,Продажі в кг,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Name,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Анкета.pbix,АКБ,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Parent1,Анкета.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Анкета.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Filter,1
+SalesPersonesExtended,Parent1,Анкета.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Values,1
+SalesPersonesExtended,Parent1,Анкета.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Анкета.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+Territories,Name,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name,Анкета.pbix,Продажі в кг,a91e19daddba80fa05a5,Category,1
+Territories,Name,Анкета.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Territories,Name,Анкета.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Territories,Name,Анкета.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Territories,Name,Анкета.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Territories,Name_Region,Анкета.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Territories,Name_Region,Анкета.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name_Region,Анкета.pbix,Продажі в кг,5a269e62d43010103159,Category,1
+Territories,Name_Region,Анкета.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Territories,Name_Region,Анкета.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Territories,Name_Region,Анкета.pbix,АКБ,5a269e62d43010103159,Category,1
+Territories,Name_Region,Анкета.pbix,АКБ,5a269e62d43010103159,Values,1
+Type_Of_Price,Name,Анкета.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Filter,1
+Type_Of_Price,Name,Анкета.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Values,1
+Warehouses,тип складу (bic,Анкета.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Category,1
+Warehouses,тип складу (bic,Анкета.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Warehouses,тип складу (bic,Анкета.pbix,АКБ,3842cabc09d0b1dc90dc,Category,1
+Warehouses,тип складу (bic,Анкета.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Анкета,Відповідь,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Відповідь,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Values,1
+Анкета,Відповідь (так,Анкета.pbix,Анкета,ec6a0238561130e939bd,Columns,1
+Анкета,Відповідь (так,Анкета.pbix,Анкета,ec6a0238561130e939bd,Rows,1
+Анкета,Відповідь (так,Анкета.pbix,Анкета,ec6a0238561130e939bd,Values,1
+Анкета,Вопрос,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Вопрос,Анкета.pbix,Анкета,ec6a0238561130e939bd,Rows,1
+Анкета,Дата,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Дата,Анкета.pbix,Анкета,48ce13260d347409200c,Values,1
+Анкета,Дата,Анкета.pbix,Анкета,59bd0ce80dde82136819,Values,1
+Анкета,Загальна кількість опрацьованих унікальних ТТ,Анкета.pbix,Анкета,83ff10ce02072291503d,Values,1
+Анкета,К-сть відповідей,Анкета.pbix,Анкета,7e4344bf2237eaebb834,Values,1
+Анкета,К-сть відповідей,Анкета.pbix,Анкета,ec6a0238561130e939bd,Rows,1
+Анкета,К-сть відповідей,Анкета.pbix,Анкета,ec6a0238561130e939bd,Values,1
+Анкета,К-сть ТА,Анкета.pbix,Анкета,85705624912ca697a363,Values,1
+Анкета,Название ТТ,Анкета.pbix,Анкета,18e43a6a7e575b9666e0,Values,1
+Анкета,Название ТТ,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Область,Анкета.pbix,Анкета,8e5d2f720d27de6ab5d3,Values,1
+Анкета,Торговий представник,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Торговий представник,Анкета.pbix,Анкета,4b987966c19d60243d46,Values,1
+Анкета,Фактический Адрес ТТ,Анкета.pbix,Анкета,4110bd077d2322c5a2c5,Rows,1
+Анкета,Фактический Адрес ТТ,Анкета.pbix,Анкета,dea7e543330701200bdb,Values,1
+ОпераційнийПлан,WorkDaysPassed,Анкета.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+ОпераційнийПлан,WorkDaysRemains,Анкета.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
