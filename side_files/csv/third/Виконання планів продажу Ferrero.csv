@@ -1,0 +1,6 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter72d46d02b305a2e021d6,DimDates,FerreroPeriodYear,Advanced
+Filter8d1e74e4ad28bf1a15c4,GroupProducts,Name,Categorical
+Filter5a73e69f862aeb006784,Operational_Planning,GroupsCode,Categorical
+Filtera6a21f1040c41b52acd0,ProductsExtended,GroupCode,Advanced
+Filterf78930b9462045032e57,ProductsExtended,MainSupplierName,Categorical

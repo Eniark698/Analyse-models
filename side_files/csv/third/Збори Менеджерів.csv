@@ -1,0 +1,8 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter3dc95a02c7a0691e981d,Contractors,Name,Categorical
+Filter,DimDates,YearForSelection,Categorical
+Filter7fcb00133bd9375b6c37,ProductsExtended,MainSupplierName,Categorical
+Filtera89c01d48903477eb3f2,ProductsExtended,Parent2,Advanced
+Filterb55483a7a29a9dc8aba8,ProductsExtended,Parent3,Advanced
+Filter1088753db085f4bf9622,ProductsExtended,Parent4,Advanced
+Filter317180b48afbe98a3d31,ProductsExtended,Parent5,Categorical

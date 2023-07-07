@@ -1,0 +1,330 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+,,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter,1
+[Role,Columns],Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Rows,2
+[Role,Columns],Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Values,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+[Role,Columns],Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Contractors,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+Contractors,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,32f1336495eeee9381cd,Filter,1
+Contractors,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,32f1336495eeee9381cd,Values,1
+Contractors,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,1
+DeliveryAddresses,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter1,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,Продажі в кг,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,АКБ,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,Залишки ВЕН,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,Продажі по типах складів,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,DateNormal,Виконання планів продажу Mars.pbix,TOП SKU по ТА,617daf469a9ed9a8b76f,Filter97e12f5d88399a106a20,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,Продажі в кг,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,АКБ,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,Залишки ВЕН,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,Продажі по типах складів,7e5fa9d0d8b4110a9041,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriod,Виконання планів продажу Mars.pbix,TOП SKU по ТА,10119f8d600dddda5c4e,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,Продажі в кг,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,АКБ,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,Залишки ВЕН,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,Продажі по типах складів,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,617daf469a9ed9a8b76f,Category,1
+DimDates,MarsPeriodYear,Виконання планів продажу Mars.pbix,TOП SKU по ТА,617daf469a9ed9a8b76f,Category,1
+DimDates,WorkDays,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,'Mars_CHOCO',Filterbdad957c2bc218063a8d,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,'Mars_GUM',Filter42968af4b975d116b965,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,АКБ,'Mars_Pet Care',Filtera58e96430626a6e2281b,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Category,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Columns,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,1
+GroupProducts,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі в кг,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі в кг,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,АКБ,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,АКБ,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,АКБ,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Залишки ВЕН,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Залишки ВЕН,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Залишки ВЕН,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі по типах складів,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі по типах складів,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,Продажі по типах складів,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0add55179ee0901ba308,Category,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0add55179ee0901ba308,Values,1
+Operational_Planning,PlanSum,Виконання планів продажу Mars.pbix,TOП SKU по ТА,5a269e62d43010103159,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Виконання операційного плану продаж Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Операціний план Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Operational_Planning,Темп на кінець періоду Mars,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+ProductsExtended,Delisting,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cf25dea0ee84b4800494,Values,1
+ProductsExtended,Equipment,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,9bb2dde83589d57e0870,Values,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,b922f5bc79362471298e,Values,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Продажі в кг,'Focus SKU',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_GUM',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,АКБ,524e79d0aad2c244a375,Rows,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,АКБ,'Focus SKU',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,АКБ,'Mars_CHOCO',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,АКБ,'Mars_GUM',Category,1
+ProductsExtended,Focus,Виконання планів продажу Mars.pbix,АКБ,'Mars_Pet Care',Category,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,03edae3f648a3fe66430,Values,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,432385fa4ca87c6cc8c3,Values,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,32f1336495eeee9381cd,Filter,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,32f1336495eeee9381cd,Values,1
+ProductsExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,1
+ProductsExtended,New,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,24973557ee156057081d,Values,1
+ProductsExtended,Present,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,4dbc38d24cab1e6a02cd,Values,1
+ProductsExtended,ProductBrandName,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+ProductsExtended,ProductBrandName,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Series,1
+ProductsExtended,ProductBrandName,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Size,1
+ProductsExtended,Promotional,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,99823356b380db47b309,Values,1
+ProductsExtended,Quotated,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,196b9cf9ae80506c41cc,Values,1
+ProductsExtended,Seasonal,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,4d55ed56a3a1ddb80430,Values,1
+ProductsExtended,Tester,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,d9dd03110d82ca273680,Values,1
+Sales,Markup Ratio,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Size,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0add55179ee0901ba308,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Values,4
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Category,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Y,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,cdaaf3d9f9ae9e11ca5c,Values,1
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Net Sales Value (UAH VAT inc,Виконання планів продажу Mars.pbix,TOП SKU по ТА,cdaaf3d9f9ae9e11ca5c,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',Value,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,524e79d0aad2c244a375,Rows,2
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,524e79d0aad2c244a375,Values,2
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,7a121d0a6070550060eb,Values,2
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,a91e19daddba80fa05a5,Size,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,ada294f78ade24251031,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,cd629293083c4a5d6b2e,Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,cd629293083c4a5d6b2e,Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,f36a2d6a875d048be92b,Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Focus SKU',Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Focus SKU',Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_CHOCO',Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_CHOCO',Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_GUM',Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_GUM',Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_Pet Care',Category,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,АКБ,'Mars_Pet Care',Y,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Values,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sales,PoS/Contractors,Виконання планів продажу Mars.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',Value,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Values,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,524e79d0aad2c244a375,Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,524e79d0aad2c244a375,Values,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,7a121d0a6070550060eb,Values,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,cd629293083c4a5d6b2e,Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,cd629293083c4a5d6b2e,Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,f36a2d6a875d048be92b,Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Focus SKU',Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Focus SKU',Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_CHOCO',Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_CHOCO',Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_GUM',Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_GUM',Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_Pet Care',Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі в кг,'Mars_Pet Care',Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Values,4
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Category,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Values,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Y,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Values,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП SKU по ТА,ada294f78ade24251031,Values,1
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Rows,2
+Sales,Volume (kg,Виконання планів продажу Mars.pbix,TOП SKU по ТА,bece3aa81fff63dfcf4b,Values,2
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Values,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Rows,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,cd629293083c4a5d6b2e,Values,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Values,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Values,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Rows,1
+Sales,Націнка,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,bece3aa81fff63dfcf4b,Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Продажі в кг,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,АКБ,7a121d0a6070550060eb,Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,809c8dd264e0e81d3abe,Filter,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,809c8dd264e0e81d3abe,Values,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,809c8dd264e0e81d3abe,Filter,1
+SalesPersonesExtended,Name,Виконання планів продажу Mars.pbix,TOП SKU по ТА,809c8dd264e0e81d3abe,Values,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Filter,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,3a54e85e033254b24b19,Values,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,Продажі в кг,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,АКБ,0021eacc0d223e7470c9,Rows,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,60a56bf547e7c18994eb,Filter,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,60a56bf547e7c18994eb,Values,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,TOП SKU по ТА,60a56bf547e7c18994eb,Filter,1
+SalesPersonesExtended,Parent1,Виконання планів продажу Mars.pbix,TOП SKU по ТА,60a56bf547e7c18994eb,Values,1
+Sheet1,Image,Виконання планів продажу Mars.pbix,Mars,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Sheet1,Image,Виконання планів продажу Mars.pbix,TOП SKU по ТА,'Brands by PoS / Бренди по покриттю ТТ',ImageURL,1
+Stocks,Date,Виконання планів продажу Mars.pbix,Залишки ВЕН,"','",Values,1
+Stocks,Date,Виконання планів продажу Mars.pbix,Залишки ВЕН,9474d14cf9d630379688,Values,1
+Stocks,Залишки в цінах продажу,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Stocks,Залишки в цінах продажу,Виконання планів продажу Mars.pbix,Залишки ВЕН,ada294f78ade24251031,Values,1
+Stocks,Залишки в цінах продажу,Виконання планів продажу Mars.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Stocks,Залишки на кінець періоду,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Stocks,Залишки на кінець періоду,Виконання планів продажу Mars.pbix,Залишки ВЕН,6a7b99f71e2a6146e232,Values,1
+Stocks,Залишки на кінець періоду,Виконання планів продажу Mars.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Territories,Name,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Category,1
+Territories,Name,Виконання планів продажу Mars.pbix,Mars,"'Продажі за поточний рік, грн з ПДВ'",Filter,1
+Territories,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name,Виконання планів продажу Mars.pbix,Продажі в кг,a91e19daddba80fa05a5,Category,1
+Territories,Name,Виконання планів продажу Mars.pbix,Продажі в кг,a91e19daddba80fa05a5,Size,1
+Territories,Name,Виконання планів продажу Mars.pbix,Продажі в кг,f36a2d6a875d048be92b,Category,1
+Territories,Name,Виконання планів продажу Mars.pbix,АКБ,a91e19daddba80fa05a5,Category,1
+Territories,Name,Виконання планів продажу Mars.pbix,АКБ,f36a2d6a875d048be92b,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,f36a2d6a875d048be92b,Rows,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі в кг,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі в кг,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,АКБ,03b7997568a0105e89b2,Rows,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,АКБ,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,АКБ,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Залишки ВЕН,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Залишки ВЕН,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі по типах складів,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі по типах складів,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  грн'",Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,Продажі по типах складів,"'Продаж,  кг'",Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,5a269e62d43010103159,Values,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,TOП SKU по ТА,5a269e62d43010103159,Category,1
+Territories,Name_Region,Виконання планів продажу Mars.pbix,TOП SKU по ТА,5a269e62d43010103159,Values,1
+Type_Of_Price,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Filter,1
+Type_Of_Price,Name,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,4c2c41f7aad9a104b45d,Values,1
+Warehouses,Code,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Warehouses,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,0021eacc0d223e7470c9,Values,1
+Warehouses,Name,Виконання планів продажу Mars.pbix,Залишки ВЕН,"'Продаж,  грн'",Values,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Category,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі в кг,a4f79d89f5b8fbb7b38e,Values,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,АКБ,3842cabc09d0b1dc90dc,Category,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,АКБ,3842cabc09d0b1dc90dc,Values,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі по типах складів,012466fa215b19136241,Category,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Columns,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Rows,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,Продажі по типах складів,'ГРН',Values,2
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Category,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,TOП Клієнтів по ТА,af5ab29f82c43a47718c,Values,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Category,1
+Warehouses,тип складу (bic,Виконання планів продажу Mars.pbix,TOП SKU по ТА,af5ab29f82c43a47718c,Values,1
+ОпераційнийПлан,WorkDaysPassed,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1
+ОпераційнийПлан,WorkDaysRemains,Виконання планів продажу Mars.pbix,Виконання планів продажу Mars,'Робочих днів в періоді',Values,1

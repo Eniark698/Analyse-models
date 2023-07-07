@@ -1,0 +1,10 @@
+﻿Table,Col/Measure,ReportName,Page Name,name,Page Filter Count
+Contractors,Name,Дебіторська заборгованість.pbix,Details,Filter,1
+Debts,Debt,Дебіторська заборгованість.pbix,debt,Filter,1
+Debts,Debt,Дебіторська заборгованість.pbix,Детал по док,Filter1,1
+Debts,Overdue Days (period),Дебіторська заборгованість.pbix,Детал по док,Filter,1
+DimDates,DayNumberOfWeek,Дебіторська заборгованість.pbix,Дебіторка по періодах (історія),Filter,1
+DimDates,DayNumberOfWeek,Дебіторська заборгованість.pbix,протерм ДЗ,Filter,1
+DimDates,DayNumberOfWeek,Дебіторська заборгованість.pbix,критична ДЗ іст,Filter,1
+DimDates,DayNumberOfWeek,Дебіторська заборгованість.pbix,ДЗ/ПДЗ (історія),Filter,1
+Territories,Name,Дебіторська заборгованість.pbix,Details,Filter1,1

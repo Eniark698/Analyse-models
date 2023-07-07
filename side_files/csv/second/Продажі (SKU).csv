@@ -1,0 +1,24 @@
+﻿Table,Col/Measure,ReportName,Page Name,name,Page Filter Count
+,,Продажі (SKU).pbix,Increase,Filter2,1
+Brands,Name,Продажі (SKU).pbix,Increase,Filter1,1
+BUs,BU,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),Filter1,1
+BUs,BU,Продажі (SKU).pbix,Debt,Filter1,1
+BUs,BU,Продажі (SKU).pbix,Stocks,Filter1,1
+BUs,BU,Продажі (SKU).pbix,plan/actual,Filter1,1
+BUs,BU,Продажі (SKU).pbix,Подажі (Контрагент/АД),Filter1,1
+BUs,BU,Продажі (SKU).pbix,forB2B,Filter1,1
+BUs,BU,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),Filter1,1
+BUs,BU,Продажі (SKU).pbix,Дубликат Contractors,Filter1,1
+BUs,BU,Продажі (SKU).pbix,SKU,Filter1,1
+Contractors,Name,Продажі (SKU).pbix,forB2B,Filter2,1
+DeliveryAddresses,Code,Продажі (SKU).pbix,forB2B,Filter,1
+ProductsExtended,Group,Продажі (SKU).pbix,Increase,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Debt,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Stocks,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Margin,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,POS,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,plan/actual,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (Контрагент/АД),Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Дубликат Contractors,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,SKU,Filter,1

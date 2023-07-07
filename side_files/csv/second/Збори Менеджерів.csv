@@ -1,0 +1,8 @@
+﻿Table,Col/Measure,ReportName,Page Name,name,Page Filter Count
+Brands,Name,Збори Менеджерів.pbix,Increase / Приріст продаж,Filter1,1
+BUs,BU,Збори Менеджерів.pbix,plan/actual,Filter1,1
+Operational_Planning,виключаю Фер з берти по ТА,Збори Менеджерів.pbix,plan/actual,Filter31283928f9a663de429a,1
+ProductsExtended,Group,Збори Менеджерів.pbix,Increase / Приріст продаж,Filter,1
+ProductsExtended,Group,Збори Менеджерів.pbix,KPI / Ключові показники,Filter,1
+Territories,Name,Збори Менеджерів.pbix,KPI / Ключові показники,Filter1,1
+Territories,Name_Region,Збори Менеджерів.pbix,plan/actual,Filter,1

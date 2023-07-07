@@ -1,0 +1,142 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+,,Збори Менеджерів.pbix,plan/actual,6c1b796fa2233c760ac4,Filter,2
+BUs,BU,Збори Менеджерів.pbix,plan/actual,'% Execution',Columns,1
+BUs,BU,Збори Менеджерів.pbix,plan/actual,'% Execution',Values,1
+DimDates,DateNormal,Збори Менеджерів.pbix,Stocks / Залишки,'Sales period',Values,1
+DimDates,DateNormal,Збори Менеджерів.pbix,plan/actual,2828dd68ab594898b49b,Filter,1
+DimDates,DateNormal,Збори Менеджерів.pbix,plan/actual,e2d1611d09202d1cc2cc,Filter,1
+DimDates,Dates.MonthName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) / Сума продаж (ГРН з ПДВ)',Category,1
+DimDates,Dates.MonthName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) / Сума продаж (ГРН з ПДВ)',Y,1
+DimDates,Dates.MonthName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Volume (kg) / Вага (кг)',Category,1
+DimDates,Dates.MonthName,Збори Менеджерів.pbix,plan/actual,'% Execution',Columns,1
+DimDates,Dates.MonthName,Збори Менеджерів.pbix,plan/actual,'% Execution',Values,1
+DimDates,Dates.YearNumber,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) / Сума продаж (ГРН з ПДВ)',Category,1
+DimDates,Dates.YearNumber,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) / Сума продаж (ГРН з ПДВ)',Y,1
+DimDates,Dates.YearNumber,Збори Менеджерів.pbix,Increase / Приріст продаж,'Volume (kg) / Вага (кг)',Category,1
+DimDates,MonthName,Збори Менеджерів.pbix,Increase / Приріст продаж,0f533f4fe2bdff2cdc30,Values,1
+DimDates,MonthName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Increase Net Sales Value (%) / Приріст продаж',Columns,1
+DimDates,MonthName,Збори Менеджерів.pbix,KPI / Ключові показники,f0afb08360a2d80602c9,Values,1
+DimDates,MonthName,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+DimDates,MonthName,Збори Менеджерів.pbix,plan/actual,2b33cafd04742363d45d,Values,1
+DimDates,YearNumber,Збори Менеджерів.pbix,Increase / Приріст продаж,a22317b9ed4cd03b6850,Values,1
+DimDates,YearNumber,Збори Менеджерів.pbix,KPI / Ключові показники,70a55d8fdc7326888cd0,Values,1
+DimDates,YearNumber,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+DimDates,YearNumber,Збори Менеджерів.pbix,plan/actual,b222f88bde026b1d9db3,Values,1
+Operational_Planning,Виконання операційного плану продаж,Збори Менеджерів.pbix,plan/actual,'% Execution',Values,2
+Operational_Planning,Виконання операційного плану продаж,Збори Менеджерів.pbix,plan/actual,'% Execution by Brand',Values,1
+Operational_Planning,Операціний план,Збори Менеджерів.pbix,plan/actual,'% Execution',Values,2
+Operational_Planning,Операціний план,Збори Менеджерів.pbix,plan/actual,'% Execution by Brand',Values,1
+Organizations,Name,Збори Менеджерів.pbix,Increase / Приріст продаж,87eaf7987daa73d1527e,Values,1
+Organizations,Name,Збори Менеджерів.pbix,KPI / Ключові показники,a2e7d1fab010cc003707,Values,1
+Organizations,Name,Збори Менеджерів.pbix,Stocks / Залишки,00f4540f489fbc133350,Values,1
+Organizations,Name,Збори Менеджерів.pbix,Stocks / Залишки,30635abb6bc9069a3e9e,Values,1
+Organizations,Name,Збори Менеджерів.pbix,plan/actual,126535ef3a11a66a2cd8,Values,1
+Organizations,Name,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,'Net Sales Value by Organization',Category,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Increase / Приріст продаж,498f5a2e500d6a8c3594,Filter,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Increase / Приріст продаж,498f5a2e500d6a8c3594,Values,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by BU / Сума продаж по Бізнесах',Category,1
+ProductsExtended,BU,Збори Менеджерів.pbix,KPI / Ключові показники,2524436eb0eab167b376,Filter,1
+ProductsExtended,BU,Збори Менеджерів.pbix,KPI / Ключові показники,2524436eb0eab167b376,Values,1
+ProductsExtended,BU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Columns,1
+ProductsExtended,BU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Stocks / Залишки,63af3571a59c2355d630,Filter,1
+ProductsExtended,BU,Збори Менеджерів.pbix,Stocks / Залишки,63af3571a59c2355d630,Values,1
+ProductsExtended,BU,Збори Менеджерів.pbix,plan/actual,4468665e866649e50635,Filter,1
+ProductsExtended,BU,Збори Менеджерів.pbix,plan/actual,4468665e866649e50635,Values,1
+ProductsExtended,Group,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Group /  Сума продаж по Групах Товару',Category,1
+ProductsExtended,Group,Збори Менеджерів.pbix,Stocks / Залишки,4179463413d445eab8b7,Filter,1
+ProductsExtended,Group,Збори Менеджерів.pbix,Stocks / Залишки,4179463413d445eab8b7,Values,1
+ProductsExtended,Name,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+ProductsExtended,Nomenclature Group,Збори Менеджерів.pbix,Increase / Приріст продаж,e247932aada5bb94c9e0,Values,1
+ProductsExtended,Nomenclature Group,Збори Менеджерів.pbix,KPI / Ключові показники,c8943f43a62ecdc0e0a4,Values,1
+ProductsExtended,Nomenclature Group,Збори Менеджерів.pbix,Stocks / Залишки,a2c81e079049c39d8807,Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,Increase / Приріст продаж,d7f324a0ce49e98c1505,Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Brand (TOP 10) / Сума продаж по Брендах ( ТОП 10)',Filter,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Brand (TOP 10) / Сума продаж по Брендах ( ТОП 10)',Group,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,KPI / Ключові показники,765747d595d2bbb02403,Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Rows,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,Stocks / Залишки,c1a4263ca341950ab7e7,Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,plan/actual,'% Execution by Brand',Columns,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,plan/actual,'% Execution by Brand',Values,1
+ProductsExtended,ProductBrandName,Збори Менеджерів.pbix,plan/actual,d8142f150221bbc76bb7,Values,1
+Sales,Base Value,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Base Value,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Base Value,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Base Value,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Base Value,Збори Менеджерів.pbix,Stocks / Залишки,00f4540f489fbc133350,Values,1
+Sales,Base Value,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+Sales,Calculated Column 1,Збори Менеджерів.pbix,plan/actual,'% Execution',Filter,1
+Sales,Contractors,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Contractors,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Contractors,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Contractors,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,FuturePeriodInMonth(days,Збори Менеджерів.pbix,plan/actual,6c1b796fa2233c760ac4,Values,1
+Sales,FuturePeriodInYear(days,Збори Менеджерів.pbix,plan/actual,37c0ec395709ceaceed1,Values,1
+Sales,Gross Margin (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Gross Margin (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Gross Margin (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Gross Margin (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Increase Net Sales Value,Збори Менеджерів.pbix,Increase / Приріст продаж,'Increase Net Sales Value (%) / Приріст продаж',Columns,6
+Sales,Increase Net Sales Value,Збори Менеджерів.pbix,Increase / Приріст продаж,'Increase Net Sales Value (%) / Приріст продаж',Values,6
+Sales,Markup Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Markup Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Markup Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Markup Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Net Margin Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Net Margin Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Net Margin Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Net Margin Ratio,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) / Сума продаж (ГРН з ПДВ)',Y,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Brand (TOP 10) / Сума продаж по Брендах ( ТОП 10)',Group,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Brand (TOP 10) / Сума продаж по Брендах ( ТОП 10)',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by BU / Сума продаж по Бізнесах',Category,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by BU / Сума продаж по Бізнесах',Y,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Group /  Сума продаж по Групах Товару',Category,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Increase / Приріст продаж,'Net Sales Value (UAH VAT inc) by Group /  Сума продаж по Групах Товару',Y,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,plan/actual,'% Execution',Values,2
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,plan/actual,'% Execution by Brand',Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,5768de49b3bbefcdc905,Values,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,'Net Sales Value by Organization',Category,1
+Sales,Net Sales Value (UAH VAT inc,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,'Net Sales Value by Organization',Y,1
+Sales,Net Sales Value Forecasted in Month,Збори Менеджерів.pbix,plan/actual,e2d1611d09202d1cc2cc,Values,1
+Sales,Net Sales Value Forecasted in Year,Збори Менеджерів.pbix,plan/actual,2828dd68ab594898b49b,Values,1
+Sales,Number of days,Збори Менеджерів.pbix,Stocks / Залишки,00f4540f489fbc133350,Values,1
+Sales,Number of days,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+Sales,PastPeriodInMonth(days,Збори Менеджерів.pbix,plan/actual,6c1b796fa2233c760ac4,Values,1
+Sales,PastPeriodInYear(days,Збори Менеджерів.pbix,plan/actual,37c0ec395709ceaceed1,Values,1
+Sales,Point of Sales,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,Point of Sales,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,Point of Sales,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,Point of Sales,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Quantity (pcs,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,5768de49b3bbefcdc905,Values,1
+Sales,SKU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Columns,1
+Sales,SKU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators / Ключові показники',Values,1
+Sales,SKU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by Brand/ Ключові показники по Брендах',Values,1
+Sales,SKU,Збори Менеджерів.pbix,KPI / Ключові показники,'Key performance indicators by BU/ Ключові показники по Бізнесах',Values,1
+Sales,Stocks in days,Збори Менеджерів.pbix,Stocks / Залишки,00f4540f489fbc133350,Values,1
+Sales,Stocks in days,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+Sales,Sum,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,5768de49b3bbefcdc905,Values,1
+Sales,Volume (kg,Збори Менеджерів.pbix,Increase / Приріст продаж,'Volume (kg) / Вага (кг)',Category,1
+Sales,Volume (kg,Збори Менеджерів.pbix,Increase / Приріст продаж,'Volume (kg) / Вага (кг)',Y,1
+Sales,Volume (kg,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,5768de49b3bbefcdc905,Values,1
+Stocks,Date,Збори Менеджерів.pbix,Stocks / Залишки,'Stocks on the date',Values,1
+Stocks,ProductCode,Збори Менеджерів.pbix,Stocks / Залишки,15391464155103b50109,Values,1
+Stocks,Stocks Base Value (UAH,Збори Менеджерів.pbix,Stocks / Залишки,00f4540f489fbc133350,Values,1
+Stocks,Stocks Base Value (UAH,Збори Менеджерів.pbix,Stocks / Залишки,5637e161100b302b5066,Values,1
+Territories,Name,Збори Менеджерів.pbix,Increase / Приріст продаж,64581e122ec4a7390949,Values,1
+Territories,Name,Збори Менеджерів.pbix,KPI / Ключові показники,9bc331f340bd1c0c802e,Values,1
+Territories,Name,Збори Менеджерів.pbix,Stocks / Залишки,b9bc0a23be0794c6992e,Values,1
+Territories,Name,Збори Менеджерів.pbix,plan/actual,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Збори Менеджерів.pbix,Sales_tooltip_Org_Ter_,5768de49b3bbefcdc905,Values,1
+Territories,Name_Region,Збори Менеджерів.pbix,Increase / Приріст продаж,b1e33890a02e7200a701,Values,1
+Territories,Name_Region,Збори Менеджерів.pbix,KPI / Ключові показники,e5336081481243079ee7,Values,1
+Territories,Name_Region,Збори Менеджерів.pbix,Stocks / Залишки,85f891acca9514a86d4b,Values,1
+Territories,Name_Region,Збори Менеджерів.pbix,plan/actual,c2ba5e21e670d471385e,Values,1
+Warehouses,Name,Збори Менеджерів.pbix,Stocks / Залишки,15391464155103b50109,Values,1
+Warehouses,Name,Збори Менеджерів.pbix,Stocks / Залишки,4d7d9c24cd5b5c4ceee6,Values,1

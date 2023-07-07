@@ -1,0 +1,4 @@
+﻿Filter Name,Table,Col/Measure,Filter Type
+Filter,BUs,BU,Categorical
+Filter1,DimDates,YearForSelection,Categorical
+Filter2,ProductsExtended,Name,Advanced

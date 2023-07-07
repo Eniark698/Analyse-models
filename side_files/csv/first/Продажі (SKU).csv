@@ -1,0 +1,403 @@
+﻿Table,Col/Measure,Report Name,Page Name,Selection Pane Name,QueryRefType,Data Element Count
+,,Продажі (SKU).pbix,Debt,da20210020f6dc95bfd7,Filter,2
+,,Продажі (SKU).pbix,plan/actual,6c1b796fa2233c760ac4,Filter,2
+Agreements,PaymentType,Продажі (SKU).pbix,Debt,d17a9051724d2cc7fe77,Values,1
+Brands,Name,Продажі (SKU).pbix,plan/actual,'% Execution by Brand',Columns,1
+Brands,Name,Продажі (SKU).pbix,plan/actual,'% Execution by Brand',Values,1
+BUs,BU,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,Increase,498f5a2e500d6a8c3594,Values,1
+BUs,BU,Продажі (SKU).pbix,plan/actual,'% Execution',Columns,1
+BUs,BU,Продажі (SKU).pbix,plan/actual,'% Execution',Values,1
+BUs,BU,Продажі (SKU).pbix,plan/actual,4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,Подажі (Контрагент/АД),4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,forB2B,4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,Дубликат Contractors,4468665e866649e50635,Values,1
+BUs,BU,Продажі (SKU).pbix,SKU,4468665e866649e50635,Values,1
+Contractors,Name,Продажі (SKU).pbix,Debt,'% Execution',Rows,1
+Contractors,Name,Продажі (SKU).pbix,Debt,'% Execution',Values,1
+Contractors,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Rows,1
+Contractors,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+Contractors,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Бренд',Category,1
+Contractors,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Бренд',Series,1
+Contractors,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Контрагент',Category,1
+Contractors,Name,Продажі (SKU).pbix,forB2B,'% Execution',Rows,1
+Contractors,Name,Продажі (SKU).pbix,forB2B,'% Execution',Values,1
+Contractors,Name,Продажі (SKU).pbix,forB2B,'Контрагент',Category,1
+Contractors,Name,Продажі (SKU).pbix,forB2B,'Контрагент',Series,1
+Contractors,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Rows,1
+Contractors,Name,Продажі (SKU).pbix,Дубликат Contractors,'Contractor',Category,1
+Debts,% Overdue Debt,Продажі (SKU).pbix,Debt,'% Execution',Values,2
+Debts,% Overdue Debt,Продажі (SKU).pbix,Debt,d17a9051724d2cc7fe77,Values,1
+Debts,Debt (UAH,Продажі (SKU).pbix,Debt,'% Execution',Values,2
+Debts,Debt (UAH,Продажі (SKU).pbix,Debt,d17a9051724d2cc7fe77,Values,1
+Debts,Overdue Days (period,Продажі (SKU).pbix,Debt,da20210020f6dc95bfd7,Values,1
+Debts,Overdue Days (period,Продажі (SKU).pbix,Debt,'Overdue Debt (UAH) by Overdue Days (period)',Category,1
+Debts,Overdue Days (period),Продажі (SKU).pbix,Debt,da20210020f6dc95bfd7,Filter,1
+Debts,Overdue Days (period),Продажі (SKU).pbix,Debt,'Overdue Debt (UAH) by Overdue Days (period)',Filter,1
+Debts,Overdue Debt (UAH,Продажі (SKU).pbix,Debt,'% Execution',Values,2
+Debts,Overdue Debt (UAH,Продажі (SKU).pbix,Debt,d17a9051724d2cc7fe77,Values,1
+Debts,Overdue Debt (UAH,Продажі (SKU).pbix,Debt,'Overdue Debt (UAH) by Overdue Days (period)',Category,1
+Debts,Overdue Debt (UAH,Продажі (SKU).pbix,Debt,'Overdue Debt (UAH) by Overdue Days (period)',Y,1
+DeliveryAddresses,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Rows,1
+DeliveryAddresses,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+DeliveryAddresses,Name,Продажі (SKU).pbix,forB2B,'% Execution',Rows,1
+DeliveryAddresses,Name,Продажі (SKU).pbix,forB2B,'% Execution',Values,1
+DeliveryAddresses,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Rows,1
+DimDates,DateNormal,Продажі (SKU).pbix,Debt,89ca8c8c2e98290178de,Filter,1
+DimDates,DateNormal,Продажі (SKU).pbix,Debt,89ca8c8c2e98290178de,Values,1
+DimDates,DateNormal,Продажі (SKU).pbix,Stocks,89ca8c8c2e98290178de,Filter,1
+DimDates,DateNormal,Продажі (SKU).pbix,Stocks,89ca8c8c2e98290178de,Values,1
+DimDates,DateNormal,Продажі (SKU).pbix,Margin,a17a7257c41eeee8a8da,Values,1
+DimDates,DateNormal,Продажі (SKU).pbix,POS,a17a7257c41eeee8a8da,Values,1
+DimDates,DateNormal,Продажі (SKU).pbix,plan/actual,2828dd68ab594898b49b,Filter,1
+DimDates,DateNormal,Продажі (SKU).pbix,plan/actual,e2d1611d09202d1cc2cc,Filter,1
+DimDates,Dates.MonthName,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Columns,1
+DimDates,Dates.MonthName,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Values,1
+DimDates,Dates.MonthName,Продажі (SKU).pbix,plan/actual,'% Execution',Columns,1
+DimDates,Dates.MonthName,Продажі (SKU).pbix,plan/actual,'% Execution',Values,1
+DimDates,Dates.YearNumber,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Columns,1
+DimDates,Dates.YearNumber,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Values,1
+DimDates,DayName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Columns,1
+DimDates,DayName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Rows,1
+DimDates,DayName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Values,1
+DimDates,DayName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),4571d08bb60b5aca9a1e,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),4ac72c9bb43e91050933,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,0f533f4fe2bdff2cdc30,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,0f533f4fe2bdff2cdc30,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,'Increase Net Sales Value (%)',Columns,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Category,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Series,1
+DimDates,MonthName,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Y,1
+DimDates,MonthName,Продажі (SKU).pbix,plan/actual,2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,plan/actual,2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,plan/actual,dd93162a437446d97547,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Подажі (Контрагент/АД),2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Подажі (Контрагент/АД),2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,forB2B,2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,forB2B,2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,forB2B,4ac72c9bb43e91050933,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,Дубликат Contractors,2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,Дубликат Contractors,2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,Дубликат Contractors,4ac72c9bb43e91050933,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,2b33cafd04742363d45d,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,2b33cafd04742363d45d,Values,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,4ac72c9bb43e91050933,Filter,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,'SKU',Columns,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,'SKU',Rows,1
+DimDates,MonthName,Продажі (SKU).pbix,SKU,'SKU',Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),4ac72c9bb43e91050933,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),4ac72c9bb43e91050933,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Debt,89ca8c8c2e98290178de,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Stocks,89ca8c8c2e98290178de,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Margin,a17a7257c41eeee8a8da,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,POS,a17a7257c41eeee8a8da,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Increase,34516b3ecffe8db09387,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Category,1
+DimDates,YearNumber,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Series,1
+DimDates,YearNumber,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Y,1
+DimDates,YearNumber,Продажі (SKU).pbix,plan/actual,dd93162a437446d97547,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,plan/actual,dd93162a437446d97547,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Подажі (Контрагент/АД),4ac72c9bb43e91050933,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Подажі (Контрагент/АД),4ac72c9bb43e91050933,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,forB2B,4ac72c9bb43e91050933,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,forB2B,4ac72c9bb43e91050933,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),4ac72c9bb43e91050933,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,Дубликат Contractors,4ac72c9bb43e91050933,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,Дубликат Contractors,4ac72c9bb43e91050933,Values,1
+DimDates,YearNumber,Продажі (SKU).pbix,SKU,4ac72c9bb43e91050933,Filter,1
+DimDates,YearNumber,Продажі (SKU).pbix,SKU,4ac72c9bb43e91050933,Values,1
+Organizations,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),d8142f150221bbc76bb7,Filter,1
+Organizations,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),d8142f150221bbc76bb7,Values,1
+Organizations,Name,Продажі (SKU).pbix,Debt,'% Execution',Rows,1
+Organizations,Name,Продажі (SKU).pbix,Debt,'% Execution',Values,1
+Organizations,Name,Продажі (SKU).pbix,Debt,729a19c57fdb2151a0b2,Values,1
+Organizations,Name,Продажі (SKU).pbix,Stocks,'% Execution',Rows,1
+Organizations,Name,Продажі (SKU).pbix,Stocks,'% Execution',Values,1
+Organizations,Name,Продажі (SKU).pbix,Stocks,729a19c57fdb2151a0b2,Values,1
+Organizations,Name,Продажі (SKU).pbix,Margin,729a19c57fdb2151a0b2,Values,1
+Organizations,Name,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Rows,1
+Organizations,Name,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Organizations,Name,Продажі (SKU).pbix,POS,729a19c57fdb2151a0b2,Values,1
+Organizations,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Rows,1
+Organizations,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Values,1
+Organizations,Name,Продажі (SKU).pbix,Increase,87eaf7987daa73d1527e,Values,1
+Organizations,Name,Продажі (SKU).pbix,Increase,d7f324a0ce49e98c1505,Filter,1
+Organizations,Name,Продажі (SKU).pbix,Increase,d7f324a0ce49e98c1505,Values,1
+Organizations,Name,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Columns,1
+Organizations,Name,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Rows,1
+Organizations,Name,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Series,1
+Organizations,Name,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Values,1
+Organizations,Name,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Y,1
+Organizations,Name,Продажі (SKU).pbix,plan/actual,126535ef3a11a66a2cd8,Values,1
+Organizations,Name,Продажі (SKU).pbix,plan/actual,d8142f150221bbc76bb7,Filter,1
+Organizations,Name,Продажі (SKU).pbix,plan/actual,d8142f150221bbc76bb7,Values,1
+Organizations,Name,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Net Sales Value by Organization',Values,1
+Organizations,Name,Продажі (SKU).pbix,forB2B,'% Execution',Columns,2
+Organizations,Name,Продажі (SKU).pbix,forB2B,'% Execution',Rows,2
+Organizations,Name,Продажі (SKU).pbix,forB2B,'% Execution',Values,2
+Organizations,Name,Продажі (SKU).pbix,forB2B,d8142f150221bbc76bb7,Filter,1
+Organizations,Name,Продажі (SKU).pbix,forB2B,d8142f150221bbc76bb7,Values,1
+Organizations,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),cd4196a32b619156022e,Values,1
+Organizations,Name,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Rows,1
+Organizations,Name,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+Organizations,Name,Продажі (SKU).pbix,SKU,d8142f150221bbc76bb7,Filter,1
+Organizations,Name,Продажі (SKU).pbix,SKU,d8142f150221bbc76bb7,Values,1
+Plan,Plan Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,plan/actual,'% Execution',Values,2
+Plan,Plan Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,plan/actual,'% Execution by Brand',Values,1
+ProductsExtended,BU,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,Stocks,9d52beb68bf68e0b8e9a,Category,1
+ProductsExtended,BU,Продажі (SKU).pbix,Margin,9d52beb68bf68e0b8e9a,Category,1
+ProductsExtended,BU,Продажі (SKU).pbix,POS,9d52beb68bf68e0b8e9a,Category,1
+ProductsExtended,BU,Продажі (SKU).pbix,Increase,498f5a2e500d6a8c3594,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,plan/actual,4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'POS by BU',Category,1
+ProductsExtended,BU,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'POS by BU',Y,1
+ProductsExtended,BU,Продажі (SKU).pbix,Подажі (Контрагент/АД),4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,forB2B,4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),cd4196a32b619156022e,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Rows,1
+ProductsExtended,BU,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+ProductsExtended,BU,Продажі (SKU).pbix,Дубликат Contractors,4468665e866649e50635,Filter,1
+ProductsExtended,BU,Продажі (SKU).pbix,SKU,4468665e866649e50635,Filter,1
+ProductsExtended,Group,Продажі (SKU).pbix,Stocks,d153563b60253935adba,Values,1
+ProductsExtended,Group,Продажі (SKU).pbix,Margin,d153563b60253935adba,Values,1
+ProductsExtended,Group,Продажі (SKU).pbix,POS,d153563b60253935adba,Values,1
+ProductsExtended,Group,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Net Sales Value by Organization',Filter,1
+ProductsExtended,Group,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Net Sales Value by Organization',Values,1
+ProductsExtended,Group,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'POS by BU',Filter,1
+ProductsExtended,MainSupplierName,Продажі (SKU).pbix,Stocks,88898749fbcf10f91704,Values,1
+ProductsExtended,MainSupplierName,Продажі (SKU).pbix,Margin,88898749fbcf10f91704,Values,1
+ProductsExtended,MainSupplierName,Продажі (SKU).pbix,POS,88898749fbcf10f91704,Values,1
+ProductsExtended,MainSupplierName,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Rows,1
+ProductsExtended,MainSupplierName,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+ProductsExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+ProductsExtended,Name,Продажі (SKU).pbix,Stocks,'% Execution',Rows,1
+ProductsExtended,Name,Продажі (SKU).pbix,Stocks,'% Execution',Values,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,Stocks,7b14f1e732206222da66,Values,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,Margin,7b14f1e732206222da66,Values,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,Margin,'TOP 10 Nomenclature Group by Gross Margin (UAH VAT inc)',Category,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,Margin,'TOP 10 Nomenclature Group by Gross Margin (UAH VAT inc)',Filter,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,POS,7b14f1e732206222da66,Values,1
+ProductsExtended,Nomenclature Group,Продажі (SKU).pbix,Increase,e247932aada5bb94c9e0,Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Бренд',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Супервайзер',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Супервайзер',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'ТА',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'ТА',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Stocks,5e1117f810afa8b2349d,Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Margin,5e1117f810afa8b2349d,Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Filter,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,POS,5e1117f810afa8b2349d,Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Filter,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Group,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,5768de49b3bbefcdc905,Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Бренд',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Контрагент',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Подажі (Контрагент/АД),'Контрагент',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,forB2B,'Бренд',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,forB2B,'Супервайзер',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,forB2B,'Супервайзер',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Страница 1,'% Execution',Rows,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Страница 1,'% Execution',Values,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Бренд',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Супервайзер',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Супервайзер',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'ТА',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'ТА',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Дубликат Contractors,'Contractor',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Дубликат Contractors,'Contractor',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,Дубликат Contractors,d8142f150221bbc76bb7,Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,'Бренд',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,'Супервайзер',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,'Супервайзер',Series,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,'ТА',Category,1
+ProductsExtended,ProductBrandName,Продажі (SKU).pbix,SKU,'ТА',Series,1
+ProductsExtended,ProductCategory,Продажі (SKU).pbix,Stocks,75fdddf2b99e92d35e29,Values,1
+Sales,% Execution,Продажі (SKU).pbix,plan/actual,'% Execution',Values,2
+Sales,% Execution,Продажі (SKU).pbix,plan/actual,'% Execution by Brand',Values,1
+Sales,Base Value,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Filter,2
+Sales,Calculated Column 1,Продажі (SKU).pbix,plan/actual,'% Execution',Filter,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Filter,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,forB2B,'% Execution',Filter,2
+Sales,Calculated Column 1,Продажі (SKU).pbix,Страница 1,'% Execution',Filter,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Filter,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Filter,1
+Sales,Calculated Column 1,Продажі (SKU).pbix,SKU,'SKU',Filter,1
+Sales,Contractors,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Contractors,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Group,1
+Sales,Contractors,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Tooltips,1
+Sales,Contractors,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Values,1
+Sales,FuturePeriodInMonth(days,Продажі (SKU).pbix,plan/actual,6c1b796fa2233c760ac4,Values,1
+Sales,FuturePeriodInYear(days,Продажі (SKU).pbix,plan/actual,37c0ec395709ceaceed1,Values,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Category,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Y,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Nomenclature Group by Gross Margin (UAH VAT inc)',Category,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Nomenclature Group by Gross Margin (UAH VAT inc)',Y,1
+Sales,Gross Margin (UAH VAT inc,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+Sales,Increase Net Sales Value,Продажі (SKU).pbix,Increase,'Increase Net Sales Value (%)',Columns,3
+Sales,Increase Net Sales Value,Продажі (SKU).pbix,Increase,'Increase Net Sales Value (%)',Values,3
+Sales,Markup Ratio,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Markup Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Category,1
+Sales,Markup Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Tooltips,1
+Sales,Markup Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Y,1
+Sales,Net Margin Ratio,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Net Margin Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Category,1
+Sales,Net Margin Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Tooltips,1
+Sales,Net Margin Ratio,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Y,1
+Sales,Net Margin Ratio,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Values,2
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Category,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Tooltips,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Margin,'TOP 10 Brands by Gross Margin (UAH VAT inc)',Y,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Increase,'Net Sales Value (UAH VAT inc)',Y,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,plan/actual,'% Execution',Values,2
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,plan/actual,'% Execution by Brand',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,forB2B,'% Execution',Values,2
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Страница 1,'% Execution',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Rows,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'% Execution',Values,1
+Sales,Net Sales Value (UAH VAT inc,Продажі (SKU).pbix,Дубликат Contractors,'% Execution',Values,1
+Sales,Net Sales Value Forecasted in Month,Продажі (SKU).pbix,plan/actual,e2d1611d09202d1cc2cc,Values,1
+Sales,Net Sales Value Forecasted in Year,Продажі (SKU).pbix,plan/actual,2828dd68ab594898b49b,Values,1
+Sales,networkdaysInMonth,Продажі (SKU).pbix,plan/actual,6c1b796fa2233c760ac4,Values,1
+Sales,PastPeriodInMonth(days,Продажі (SKU).pbix,plan/actual,6c1b796fa2233c760ac4,Values,1
+Sales,PastPeriodInYear(days,Продажі (SKU).pbix,plan/actual,37c0ec395709ceaceed1,Values,1
+Sales,Point of Sales,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Size,1
+Sales,Point of Sales,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Values,1
+Sales,Point of Sales,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Group,1
+Sales,Point of Sales,Продажі (SKU).pbix,POS,'TOP 10 Brands by Point of Sales',Values,1
+Sales,Point of Sales,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",174901769ae95ca92b24,Values,1
+Sales,Point of Sales,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Net Sales Value by Organization',Values,2
+Sales,Point of Sales,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Point of Sales by Brand',ImageURL,1
+Sales,Point of Sales,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Point of Sales by Brand',Value,1
+Sales,Point of Sales,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'POS by BU',Y,1
+Sales,Quantity (pcs,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+Sales,Quantity (pcs,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Values,2
+Sales,Quantity (pcs,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+Sales,SKU,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Values,1
+Sales,SKU,Продажі (SKU).pbix,SKU,5768de49b3bbefcdc905,Values,1
+Sales,SKU,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+Sales,SKU,Продажі (SKU).pbix,SKU,'SKU',Values,1
+Sales,Volume (kg,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+Sales,Volume (kg,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Values,2
+Sales,Volume (kg,Продажі (SKU).pbix,Подажі (Контрагент/АД),'% Execution',Values,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Rows,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'% Execution',Values,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Бренд',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Бренд',Series,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'ТА',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'% Execution',Rows,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'% Execution',Values,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'Бренд',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'Бренд',Series,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'Контрагент',Series,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,forB2B,'ТА',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Бренд',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Бренд',Series,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'ТА',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,SKU,'SKU',Rows,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,SKU,'SKU',Values,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,SKU,'Бренд',Category,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,SKU,'Бренд',Series,1
+SalesPersonesExtended,Name,Продажі (SKU).pbix,SKU,'ТА',Category,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),'Супервайзер',Category,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,forB2B,'% Execution',Rows,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,forB2B,'% Execution',Values,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,forB2B,'Супервайзер',Category,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,forB2B,'ТА',Category,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,forB2B,'ТА',Series,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),'Супервайзер',Category,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,SKU,'SKU',Rows,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,SKU,'SKU',Values,1
+SalesPersonesExtended,Parent1,Продажі (SKU).pbix,SKU,'Супервайзер',Category,1
+Sheet1,Image,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",'Point of Sales by Brand',ImageURL,1
+Stocks,Stocks (pcs,Продажі (SKU).pbix,Stocks,'% Execution',Values,3
+Stocks,Stocks (pcs,Продажі (SKU).pbix,Stocks,d17a9051724d2cc7fe77,Values,1
+Stocks,Stocks (SKU,Продажі (SKU).pbix,Stocks,'% Execution',Values,1
+Stocks,Stocks Base Value (UAH,Продажі (SKU).pbix,Stocks,'% Execution',Values,3
+Stocks,Stocks Base Value (UAH,Продажі (SKU).pbix,Stocks,d17a9051724d2cc7fe77,Values,1
+Territories,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Debt,'% Execution',Rows,1
+Territories,Name,Продажі (SKU).pbix,Debt,'% Execution',Values,1
+Territories,Name,Продажі (SKU).pbix,Debt,729a19c57fdb2151a0b2,Filter,1
+Territories,Name,Продажі (SKU).pbix,Debt,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Debt,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Stocks,'% Execution',Rows,1
+Territories,Name,Продажі (SKU).pbix,Stocks,'% Execution',Values,1
+Territories,Name,Продажі (SKU).pbix,Stocks,5e1117f810afa8b2349d,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,729a19c57fdb2151a0b2,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,75fdddf2b99e92d35e29,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,7b14f1e732206222da66,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,88898749fbcf10f91704,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,9d52beb68bf68e0b8e9a,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Stocks,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Stocks,d153563b60253935adba,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,5e1117f810afa8b2349d,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,729a19c57fdb2151a0b2,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,7b14f1e732206222da66,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,88898749fbcf10f91704,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,9d52beb68bf68e0b8e9a,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Margin,d153563b60253935adba,Filter,1
+Territories,Name,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Rows,1
+Territories,Name,Продажі (SKU).pbix,Margin,'Gross Margin (UAH VAT inc)',Values,1
+Territories,Name,Продажі (SKU).pbix,POS,5e1117f810afa8b2349d,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,729a19c57fdb2151a0b2,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,7b14f1e732206222da66,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,88898749fbcf10f91704,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,9d52beb68bf68e0b8e9a,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,POS,d153563b60253935adba,Filter,1
+Territories,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Category,1
+Territories,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Rows,1
+Territories,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Size,1
+Territories,Name,Продажі (SKU).pbix,POS,'Gross Margin (UAH VAT inc)',Values,1
+Territories,Name,Продажі (SKU).pbix,Increase,64581e122ec4a7390949,Filter,1
+Territories,Name,Продажі (SKU).pbix,Increase,64581e122ec4a7390949,Values,1
+Territories,Name,Продажі (SKU).pbix,plan/actual,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,plan/actual,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,"POS_tooltip_Org_Ter_""",174901769ae95ca92b24,Values,1
+Territories,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Подажі (Контрагент/АД),acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,forB2B,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,forB2B,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Продажі(Контрагенти/Дні),acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,Дубликат Contractors,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,Дубликат Contractors,acaf6b666de235b8d0e6,Values,1
+Territories,Name,Продажі (SKU).pbix,SKU,acaf6b666de235b8d0e6,Filter,1
+Territories,Name,Продажі (SKU).pbix,SKU,acaf6b666de235b8d0e6,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (ТА/Бренд/Товар),c2ba5e21e670d471385e,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,Debt,c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Debt,c2ba5e21e670d471385e,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,Increase,b1e33890a02e7200a701,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Increase,b1e33890a02e7200a701,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,plan/actual,c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,plan/actual,c2ba5e21e670d471385e,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (Контрагент/АД),c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Подажі (Контрагент/АД),c2ba5e21e670d471385e,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,Дубликат Contractors,c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,Дубликат Contractors,c2ba5e21e670d471385e,Values,1
+Territories,Name_Region,Продажі (SKU).pbix,SKU,c2ba5e21e670d471385e,Filter,1
+Territories,Name_Region,Продажі (SKU).pbix,SKU,c2ba5e21e670d471385e,Values,1
+Warehouses,Name,Продажі (SKU).pbix,Stocks,'% Execution',Rows,1
+Warehouses,Name,Продажі (SKU).pbix,Stocks,'% Execution',Values,1
